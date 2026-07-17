@@ -103,3 +103,154 @@ Required Skills:
 • Knowledge of cloud technologies.
 • Knowledge of container orchestration.
 • Infrastructure automation experience.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 6 :
+
+Responsibilities:
+
+• Implement monitoring, alerting and observability solutions.
+• Partner with engineering teams to enable safe and efficient deployments.
+• Improve system scalability, resilience and operational efficiency.
+• Monitor systems, troubleshoot issues and drive incident resolution and root cause analysis.
+• Build and maintain CI/CD pipelines and release automation.
+• Participate in code reviews and follow coding standards.
+• Improve code quality, diagnosability, reliability and maintainability.
+
+Required/Minimum Qualifications:
+
+• Bachelor's degree in Computer Science or equivalent.
+• 3–5+ years of experience in Site Reliability Engineering, DevOps or Software Engineering.
+• Strong coding/scripting skills using Python, C#, Java or similar programming languages.
+• Strong analytical, debugging and problem-solving skills.
+
+Preferred Qualifications:
+
+• Experience working with large-scale distributed systems or data platforms.
+• Experience with automation for service onboarding and deployment orchestration.
+• Experience with Docker and Kubernetes.
+• Experience with observability and telemetry systems.
+• Experience with incident management and postmortem culture.
+• Exposure to Site Reliability Engineering practices.
+• Experience with Azure, AWS or GCP cloud platforms.
+• Experience with Azure DevOps, GitHub Actions or Jenkins.
+• Experience with Azure Monitor, Grafana and Prometheus.
+• Experience with Linux and Windows operating systems.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 7 :
+
+Responsibilities:
+
+• Develop and maintain DevOps infrastructure supporting cloud-native applications.
+• Expand and maintain deployment environments.
+• Develop CI/CD workflows and deployment automation.
+• Collaborate with software engineering teams to improve deployment processes.
+• Support infrastructure reliability and scalability.
+
+Required Technical and Professional Expertise:
+
+• Experience in DevOps.
+• Experience with IBM Cloud, AWS or GCP.
+• Experience with ArgoCD.
+• Experience developing Helm Charts.
+• Experience developing CI/CD pipelines using Tekton.
+• Experience with source code management using GitHub.
+
+Preferred Technical and Professional Expertise:
+
+• Experience using Terraform.
+• Experience programming with Python or Go.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 8 :
+
+Responsibilities:
+
+• Build and maintain cloud infrastructure using Infrastructure as Code.
+• Automate software build, deployment and release processes.
+• Manage Kubernetes clusters and containerized applications.
+• Improve infrastructure scalability, reliability and availability.
+• Monitor production systems and resolve operational issues.
+• Collaborate with development teams to streamline deployments.
+
+Required Qualifications:
+
+• Experience with Terraform and Infrastructure as Code.
+• Experience with Docker and Kubernetes.
+• Experience with Jenkins or GitHub Actions.
+• Experience with Linux administration.
+• Experience with Bash or Python scripting.
+• Experience using Git version control.
+• Experience with AWS cloud services.
+
+Preferred Qualifications:
+
+• Experience with Ansible.
+• Experience implementing monitoring using Prometheus and Grafana.
+• Knowledge of networking fundamentals including DNS, Load Balancers and SSL/TLS.
+• Experience implementing DevSecOps practices.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 9 :
+
+Responsibilities:
+
+• Design, implement and maintain Continuous Integration and Continuous Deployment pipelines.
+• Automate infrastructure provisioning and configuration management.
+• Manage cloud infrastructure and production deployments.
+• Implement monitoring, logging and alerting solutions.
+• Troubleshoot infrastructure and application issues.
+• Improve deployment automation and operational efficiency.
+
+Required Qualifications:
+
+• Experience with AWS, Azure or Google Cloud Platform.
+• Experience with Docker and Kubernetes.
+• Experience using Terraform or CloudFormation.
+• Experience with CI/CD tools such as Jenkins, GitHub Actions or GitLab CI.
+• Experience with Linux and Shell scripting.
+• Experience with Python for automation.
+• Experience with Git source control.
+
+Preferred Qualifications:
+
+• Experience with ELK Stack, Prometheus or Grafana.
+• Experience implementing Infrastructure as Code.
+• Knowledge of networking and cloud security best practices.
+• Experience supporting highly available production environments.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 10 :
+
+Responsibilities:
+
+• Develop automation solutions to improve operational efficiency.
+• Build and maintain deployment pipelines.
+• Support production infrastructure and cloud environments.
+• Monitor application availability and troubleshoot production incidents.
+• Collaborate with development teams to improve release processes.
+• Maintain operational excellence across production systems.
+
+Basic Qualifications:
+
+• Experience with software development or production support.
+• Experience troubleshooting and debugging technical systems.
+• Experience scripting using modern programming languages.
+• Experience working with cloud services.
+• Experience working with Linux environments.
+
+Preferred Qualifications:
+
+• Experience with REST APIs.
+• Experience with AWS services.
+• Experience with monitoring and logging tools.
+• Experience debugging distributed applications.
+• Experience working in enterprise production support environments.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
