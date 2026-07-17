@@ -1343,3 +1343,289 @@ Preferred Qualifications:
 • Strong automation and scripting skills.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 51 :
+Job Responsibilities:
+
+• Monitor applications and infrastructure and troubleshoot production issues.
+• Manage application deployments and support infrastructure environments.
+• Resolve complex production incidents requiring deep technical expertise.
+• Support resiliency, metrics reporting, audits and operational improvements.
+• Collaborate with engineering teams to deliver secure, stable and scalable solutions.
+
+Required Qualifications:
+
+• 5+ years of software engineering or DevOps/SRE experience.
+• Strong programming skills using Python.
+• Hands-on experience as a DevOps or Site Reliability Engineer.
+• Experience troubleshooting cloud-native applications and infrastructure.
+• Experience with AWS or other public cloud platforms.
+• Proficiency in automation and Continuous Delivery practices.
+• Understanding of CI/CD, Application Resiliency and Security.
+• Experience with monitoring tools such as OpenSearch, Grafana or Hexagate.
+
+Preferred Qualifications:
+
+• Cloud certifications (AWS or equivalent).
+• DevOps/SRE certification.
+• Experience with AI technologies.
+• Financial services domain experience.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 52 :
+Job Responsibilities:
+
+• Design and maintain scalable GraphQL platform infrastructure.
+• Develop observability and alerting solutions for platform health.
+• Automate CI/CD pipelines and infrastructure processes.
+• Develop self-service platform capabilities for engineering teams.
+• Build secure, high-quality production software.
+• Contribute to platform architecture and operational improvements.
+
+Required Qualifications:
+
+• 3+ years of software engineering or platform engineering experience.
+• Experience with Terraform.
+• Experience with Docker and Kubernetes.
+• Experience with Bash, Groovy or similar scripting languages.
+• Knowledge of REST and GraphQL services.
+• Experience with Git or Bitbucket.
+• Experience using monitoring tools such as Splunk, Datadog, Dynatrace or CloudWatch.
+• Strong documentation and communication skills.
+
+Preferred Qualifications:
+
+• Experience with AWS.
+• Experience with EKS, ECS, IAM, Security Groups and CloudWatch.
+• Experience with Jenkins or Spinnaker.
+• Experience with Java or Rust.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 53 :
+Responsibilities:
+
+• Execute CI/CD pipeline management for software deployment.
+• Develop automation scripts for provisioning, monitoring and deployment.
+• Configure infrastructure monitoring and logging solutions.
+• Manage cloud infrastructure across AWS, Azure or GCP.
+• Collaborate with development teams to improve application performance.
+• Ensure compliance with infrastructure security standards.
+• Respond to production incidents and maintain high availability.
+
+Required Qualifications:
+
+• Bachelor's degree in Computer Science or related field.
+• 3+ years of DevOps or System Administration experience.
+• Experience with Docker, Kubernetes, Jenkins and Terraform.
+• Experience with Python and Bash scripting.
+• Experience with Git and Infrastructure as Code.
+• Strong communication and analytical skills.
+
+Preferred Qualifications:
+
+• Experience working in Agile environments.
+• Strong troubleshooting skills.
+• Experience supporting enterprise-scale cloud infrastructure.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 54 :
+Responsibilities:
+
+• Implement CI/CD pipelines, containerization and automated deployment workflows.
+• Manage Kubernetes, Docker, Terraform and Ansible infrastructure.
+• Optimize application performance through monitoring and scaling.
+• Coordinate release activities with development, QA and operations teams.
+• Ensure secure and reliable DevOps practices across production environments.
+
+Required Qualifications:
+
+• Bachelor's degree in Computer Science, Information Technology or Software Engineering.
+• Minimum 5 years of DevOps experience.
+• Experience supporting medium and large-scale hosting infrastructures.
+• Experience with Docker and Kubernetes.
+• Experience with Terraform and Ansible.
+• Experience with cloud platforms and Infrastructure as Code.
+
+Preferred Qualifications:
+
+• Experience with enterprise application deployment.
+• Strong automation and troubleshooting skills.
+• Experience supporting production cloud environments.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 55 :
+Responsibilities:
+
+• Write Python jobs for enterprise data processing.
+• Support CI/CD pipelines using Jenkins.
+• Manage AWS cloud infrastructure and deployment services.
+• Deploy and maintain Docker-based production environments.
+• Configure and maintain RabbitMQ, MongoDB, Redis and API Gateway services.
+• Support highly available production applications.
+• Analyze application performance and optimize infrastructure resources.
+
+Required Qualifications:
+
+• Graduate or equivalent qualification.
+• At least 2 years of Python development experience.
+• Experience with PHP.
+• Experience with AWS services including EC2, ECS, ECR, Lambda, CloudWatch and CloudFront.
+• Experience with Docker.
+• Experience with Jenkins.
+• Experience with Airflow, ELK and Dataflow.
+• Knowledge of Infrastructure as Code, Ansible and cloud networking.
+
+Preferred Qualifications:
+
+• Experience with Redis clusters and database replication.
+• Experience with deployment strategies and secrets management.
+• Experience scaling Linux-based production applications.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 56 :
+Responsibilities:
+
+• Design, develop and maintain cloud-native platform services.
+• Build and optimize CI/CD pipelines for software delivery.
+• Implement GitOps workflows for application deployment.
+• Manage Kubernetes clusters across cloud and on-premises environments.
+• Improve platform observability, scalability and operational reliability.
+• Collaborate with engineering teams to automate infrastructure provisioning.
+
+Required Qualifications:
+
+• Bachelor's degree in Computer Science, Engineering or related field.
+• Experience with Kubernetes (EKS, AKS, GKE or on-premises clusters).
+• Experience with GitOps tools such as ArgoCD.
+• Experience with Helm.
+• Experience with Terraform.
+• Experience with Bitbucket Pipelines or similar CI/CD platforms.
+• Strong understanding of Linux systems and networking.
+
+Preferred Qualifications:
+
+• Experience with Prometheus and Grafana.
+• Experience with HashiCorp Vault.
+• Experience implementing RBAC and secure deployment workflows.
+• Experience troubleshooting cloud infrastructure.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 57 :
+Responsibilities:
+
+• Design and implement Infrastructure as Code solutions.
+• Build secure and automated CI/CD pipelines.
+• Automate cloud infrastructure provisioning and configuration.
+• Support containerized application deployments.
+• Monitor platform health and improve service reliability.
+• Collaborate with development teams to improve release processes.
+
+Required Qualifications:
+
+• Experience with AWS, Azure or Google Cloud Platform.
+• Experience with Terraform or CloudFormation.
+• Experience with Docker and Kubernetes.
+• Experience with Jenkins, GitHub Actions or GitLab CI.
+• Experience with Python, Bash or Shell scripting.
+• Experience with Git version control.
+
+Preferred Qualifications:
+
+• Experience with DevSecOps practices.
+• Experience with monitoring tools such as Prometheus and Grafana.
+• Knowledge of networking fundamentals and cloud security.
+• Strong troubleshooting skills.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 58 :
+Responsibilities:
+
+• Build and maintain scalable cloud infrastructure for enterprise applications.
+• Develop deployment automation using Infrastructure as Code.
+• Implement Continuous Integration and Continuous Deployment pipelines.
+• Monitor production systems and perform incident management.
+• Improve platform availability, scalability and operational efficiency.
+• Work closely with software engineering teams on deployment automation.
+
+Required Qualifications:
+
+• Experience administering Linux systems.
+• Experience with Docker and Kubernetes.
+• Experience with Terraform or Ansible.
+• Experience with AWS or Azure cloud services.
+• Strong scripting skills using Python or Bash.
+• Experience with Git and CI/CD tools.
+
+Preferred Qualifications:
+
+• Experience with Helm.
+• Experience implementing GitOps.
+• Experience with Prometheus, Grafana or ELK Stack.
+• Experience supporting enterprise production environments.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 59 :
+Responsibilities:
+
+• Build cloud infrastructure supporting enterprise software platforms.
+• Automate software deployment and release processes.
+• Configure monitoring, logging and alerting solutions.
+• Support production infrastructure and resolve operational issues.
+• Implement Infrastructure as Code and automation best practices.
+• Collaborate with cross-functional engineering teams.
+
+Required Qualifications:
+
+• Bachelor's degree in Computer Science or related discipline.
+• Experience with AWS cloud services.
+• Experience with Kubernetes and Docker.
+• Experience with Terraform.
+• Experience with Python or Go programming.
+• Experience with Git and CI/CD workflows.
+
+Preferred Qualifications:
+
+• Experience with service mesh technologies.
+• Experience with cloud security and IAM.
+• Experience with observability platforms.
+• Strong analytical and debugging skills.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 60 :
+Responsibilities:
+
+• Build and maintain enterprise DevOps platforms.
+• Develop CI/CD pipelines for application delivery.
+• Automate infrastructure provisioning using Infrastructure as Code.
+• Deploy and manage Kubernetes-based workloads.
+• Monitor production infrastructure and optimize system performance.
+• Troubleshoot deployment failures and production incidents.
+• Maintain infrastructure security and operational excellence.
+
+Required Qualifications:
+
+• Bachelor's degree in Computer Science, Engineering or equivalent practical experience.
+• Experience with Kubernetes and Docker.
+• Experience with Terraform, Ansible or similar Infrastructure as Code tools.
+• Experience with Jenkins, GitHub Actions or Azure DevOps.
+• Experience with Linux administration.
+• Strong scripting skills using Python, Bash or PowerShell.
+• Experience with Git version control.
+
+Preferred Qualifications:
+
+• Experience with DevSecOps methodologies.
+• Experience with Prometheus, Grafana or Splunk.
+• Knowledge of cloud networking, IAM and security best practices.
+• Strong communication, collaboration and problem-solving skills.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
