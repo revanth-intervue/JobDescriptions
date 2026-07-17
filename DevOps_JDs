@@ -254,3 +254,112 @@ Preferred Qualifications:
 • Experience working in enterprise production support environments.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 11 :
+Roles & Responsibilities:
+
+• Design, implement and maintain Continuous Integration and Continuous Deployment (CI/CD) pipelines.
+• Automate infrastructure provisioning and management using Infrastructure as Code (IaC).
+• Monitor application health, infrastructure metrics and system performance.
+• Collaborate with development, operations and QA teams for software delivery.
+• Ensure compliance with security standards and organizational policies.
+
+Qualifications:
+
+• Bachelor's degree in Computer Science, Information Technology or related field.
+• Experience in DevOps or Cloud Engineering with production deployment and operational management.
+• Experience implementing DevOps practices and tools throughout the software development lifecycle.
+• Experience developing CI/CD pipelines and automating infrastructure provisioning.
+• Strong understanding of Infrastructure as Code (IaC), cloud platforms and automation tools.
+• Strong problem-solving skills and collaborative work experience.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 12 :
+Roles & Responsibilities:
+
+• Design, build and maintain scalable, secure and cost-efficient infrastructure using Infrastructure as Code.
+• Develop and optimize CI/CD pipelines using Jenkins, GitLab CI or CircleCI.
+• Automate workflows and system tasks using Python, Bash or PowerShell.
+• Implement monitoring, alerting and logging solutions using Prometheus, Grafana, ELK Stack and Splunk.
+• Manage cloud platforms and optimize resource utilization.
+• Collaborate with development teams to streamline deployment processes.
+• Implement DevSecOps practices and security controls.
+• Troubleshoot production issues and perform root cause analysis.
+
+Required Qualifications:
+
+• Experience with Terraform, Ansible or CloudFormation.
+• Experience with AWS, Azure or Google Cloud Platform.
+• Experience with Docker and Kubernetes.
+• Experience with Git version control.
+• Strong scripting skills using Python, Bash or PowerShell.
+• Experience implementing monitoring and observability solutions.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 13 :
+Key Responsibilities:
+
+• Design, implement and maintain CI/CD pipelines for automated software delivery.
+• Automate infrastructure provisioning using Terraform, Ansible or CloudFormation.
+• Manage cloud infrastructure including provisioning, scaling and monitoring.
+• Maintain containerization and orchestration platforms using Docker, Kubernetes and ECS.
+• Implement logging, monitoring and alerting using Prometheus, Grafana, ELK Stack and CloudWatch.
+• Collaborate with development and QA teams to improve software deployment.
+• Ensure infrastructure security through access control, patch management and vulnerability remediation.
+• Troubleshoot issues across development, testing and production environments.
+• Support disaster recovery, backup strategies and high availability architecture.
+
+Required Qualifications:
+
+• Experience with AWS, Azure or GCP.
+• Experience with CI/CD tools such as Jenkins, GitHub Actions or GitLab CI.
+• Experience with Docker, Kubernetes and Infrastructure as Code.
+• Experience with Linux administration and scripting.
+• Strong troubleshooting and analytical skills.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 14 :
+Minimum Qualifications:
+
+• Bachelor's degree in Computer Science, Engineering or related field with 3+ years of experience.
+• Experience designing highly available and fault-tolerant infrastructure.
+• Experience with Infrastructure as Code tools including Terraform, Ansible or Puppet.
+• Experience implementing CI/CD pipelines using Jenkins and GitHub Actions.
+• Experience using Git, GitHub, GitLab or Bitbucket.
+• Strong scripting skills using Python and Bash.
+• Strong understanding of Linux operating systems, networking, storage management and virtualization.
+• Experience deploying and troubleshooting large-scale infrastructure.
+
+Preferred Qualifications:
+
+• Experience with Docker, Podman and Kubernetes.
+• Experience implementing cloud automation.
+• Experience with HashiCorp Vault or secrets management.
+• Experience with monitoring tools including Prometheus, Grafana and Zabbix.
+• Understanding of infrastructure security best practices.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 15 :
+Project Role Description:
+
+• Build and configure development tools and infrastructure.
+• Implement Continuous Integration, Continuous Delivery and Continuous Deployment (CI/CD) practices.
+• Build, test and maintain end-to-end CI/CD pipelines.
+• Work with cloud technologies, container orchestration and infrastructure security.
+• Ensure systems are secure, reliable and highly available.
+
+Required Qualifications:
+
+• Minimum 2 years of experience in DevOps Engineering.
+• Experience working with CI/CD methodologies.
+• Knowledge of cloud technologies.
+• Experience with container orchestration platforms.
+• Understanding of infrastructure automation.
+• Ability to collaborate effectively within Agile development teams.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
