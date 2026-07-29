@@ -1,1 +1,1143 @@
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Google Sheet Link : 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+Job Description 1
+ 
+Responsibilities:
+- Own post-silicon validation and hardware bring-up for FPGA-based SoC architectures.
+- Synthesize, implement, place-and-route, and achieve timing closure using Microchip Libero SoC and Xilinx Vivado.
+- Develop processor-based test environments using ARM Cortex-M and RISC-V platforms.
+- Develop Embedded C/C++ test cases to validate FPGA hardware IPs.
+- Utilize embedded logic analyzers and lab equipment to debug system-level, protocol, and timing failures.
+- Perform board bring-up, signal integrity checks, and validation of high-speed serial interfaces.
+- Collaborate with RTL design, verification, firmware, software, and board design teams.
 
+Minimum Qualifications:
+- Bachelor's or Master's degree in Electrical Engineering, Electronics & Communication, or Computer Engineering.
+- Expert proficiency in SystemVerilog, Verilog, and VHDL.
+- Strong Embedded C/C++ programming skills.
+- Experience with ARM Cortex-M and RISC-V processor-based validation.
+- Experience validating AXI4, AHB, APB, PCIe Gen3/Gen4, DDR4/DDR5, SPI, QSPI, and UART interfaces.
+- Hands-on experience with Microchip Libero SoC, Xilinx Vivado, Intel Quartus Prime, ModelSim, QuestaSim, and Synopsys Identify.
+- Experience using oscilloscopes, logic analyzers, protocol analyzers, and JTAG debuggers.
+- Experience with Python and Tcl scripting for automation.
+
+Preferred Qualifications:
+- Experience with Secure Boot validation.
+- Knowledge of Physical Unclonable Functions (PUF).
+- Experience validating Hardware Security IP.
+- Knowledge of Static Timing Analysis (STA).
+- Experience with thermal and power profiling.
+- Experience performing FPGA timing closure.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 2
+
+Responsibilities:
+- Develop UVM-based verification environments including drivers, monitors, scoreboards, and agents.
+- Develop SystemVerilog Assertions (SVA) for protocol verification.
+- Create constrained-random and transaction-level verification tests.
+- Improve functional and code coverage through coverage-driven verification.
+- Perform FPGA hardware validation and board bring-up.
+- Execute Hardware-in-the-Loop (HIL) testing.
+- Maintain automated CI/CD regression suites.
+- Prepare verification closure reports complying with aerospace standards.
+- Perform root-cause analysis for simulation mismatches and hardware failures.
+- Collaborate with FPGA, hardware, and systems engineering teams.
+ 
+Minimum Qualifications:
+- Bachelor's or Master's degree in Electrical, Electronics, or Computer Engineering.
+- 3+ years of SystemVerilog and UVM verification experience.
+- Experience with AMD/Xilinx Vivado, Zynq UltraScale+, and Zynq RFSoC platforms.
+- Experience validating Ethernet (10G/25G), PCIe, JESD204C, MIL-STD-1553, and SPI protocols.
+- Experience using Xilinx Vivado ILA, oscilloscopes, and logic analyzers.
+- Experience with constrained-random verification, transaction-level verification, and coverage-driven verification.
+- Experience with Python, Tcl, Makefile, and Linux environments.
+- Ability to obtain and maintain a U.S. Secret Security Clearance.
+ 
+Preferred Qualifications:
+- Experience with DO-254 hardware verification.
+- Experience with Cocotb.
+- Experience with Formal Verification tools.
+- Experience with Clock Domain Crossing (CDC) analysis.
+- Experience using SpyGlass CDC or Questa CDC.
+- Experience automating verification workflows using Python and Tcl.
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+Job Description 3 :
+ 
+Responsibilities:
+- Define silicon validation strategy, platform architectures, and test execution timelines for FPGA SoC platforms.
+- Lead hardware bring-up and physical layer validation for SerDes, PCIe Gen4/Gen5, Ethernet PCS/PMA, and DDR4/DDR5 interfaces.
+- Design embedded bare-metal validation suites for ARM Cortex-M and RISC-V processor-based systems.
+- Collaborate with ASIC design, IP, firmware, and board engineering teams to isolate silicon, firmware, and hardware issues.
+- Oversee synthesis, implementation, static timing constraints (SDC), and timing closure for large FPGA designs.
+- Mentor validation engineers and present technical progress to stakeholders.
+- 
+Minimum Qualifications:
+- Bachelor's or Master's degree in ECE, VLSI, Embedded Systems, or related field.
+- 10+ years of experience in FPGA design, silicon validation, and post-silicon bring-up.
+- Strong experience in Verilog, SystemVerilog, VHDL, Embedded C, and C++.
+- Experience validating SerDes, PCIe Gen4/Gen5, DDR4/LPDDR5, AXI, AHB, and APB interfaces.
+- Hands-on experience with Xilinx ChipScope, Synopsys Identify, oscilloscopes, logic analyzers, and protocol analyzers.
+- Experience with static timing analysis, synthesis, implementation, and timing closure.
+- Strong Python, Tcl, Perl scripting skills in Linux environments.
+
+Preferred Qualifications:
+- Experience with Secure Boot and FPGA security validation.
+- Knowledge of cryptographic co-processors and Physical Unclonable Functions (PUF).
+- Experience leading FPGA validation teams.
+- Strong project planning and stakeholder management skills.
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+Job Description 4 :
+ 
+Responsibilities:
+- Design, build, and scale FPGA-based prototyping and emulation platforms.
+- Partition, compile, and map complex SoC and memory controller designs onto multi-FPGA platforms.
+- Customize RTL for FPGA implementation, including clock domain conversion and memory model replacement.
+- Develop hybrid validation environments integrating FPGA prototypes with host software models.
+- Perform bring-up of DDR5, LPDDR5, CXL, and PCIe-based memory interfaces.
+- Debug functional mismatches between simulation and physical FPGA prototypes using embedded debug tools.
+ 
+Minimum Qualifications:
+- Bachelor's or Master's degree in Electrical Engineering, Electronics Engineering, or Microelectronics.
+- Experience with Synopsys ProtoCompiler, Certify, Xilinx Vivado, or Intel Quartus Prime.
+- Strong knowledge of Verilog, SystemVerilog, and synthesis constraints (SDC).
+- Experience with DDR4, DDR5, LPDDR4, LPDDR5, CXL, NVMe, AXI4, and PCIe protocols.
+- Experience using Xilinx ILA, Synopsys Identify, HAPS Deep Trace, and FPGA debug tools.
+- Strong Python, Tcl, and Bash scripting skills for build and validation automation.
+ 
+Preferred Qualifications:
+- Experience with RISC-V processor bring-up.
+- Knowledge of memory controller architecture.
+- Experience with signal integrity analysis.
+- Experience with FPGA-based hardware emulation platforms.
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+Job Description 5 :
+ 
+Responsibilities:
+- Plan, execute, and document post-silicon validation for FPGA and ASIC hardware platforms.
+- Develop automated validation frameworks using Python and C++.
+- Perform board-level debugging, timing verification, and signal integrity analysis.
+- Collaborate with hardware, systems, and software teams to isolate functional and timing issues.
+- Validate hardware behavior against simulation using industry-standard EDA tools.
+- Perform environmental, stress, and reliability testing for FPGA and ASIC devices.
+ 
+Minimum Qualifications:
+- Bachelor's degree in Electrical Engineering, Computer Engineering, or related field.
+- 5+ years of FPGA/ASIC hardware validation experience.
+- Experience with Siemens QuestaSim, ModelSim, Xilinx Vivado, and Intel Quartus.
+- Strong scripting skills in Python, Tcl, or C/C++ within Unix/Linux environments.
+- Experience using oscilloscopes, logic analyzers, spectrum analyzers, and JTAG probes.
+- Experience with SPI, I2C, UART, PCIe, and Ethernet interfaces.
+- Strong hardware debugging and board bring-up experience.
+
+Preferred Qualifications:
+- Experience with DO-254 design and verification standards.
+- Knowledge of Design for Test (DFT).
+- Experience with manufacturability testing.
+- Knowledge of high-reliability avionics hardware validation.
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+Job Description 6 :
+ 
+Responsibilities:
+- Develop synthesizable VHDL/Verilog code for data acquisition, signal processing, and communication systems.
+- Validate FPGA hardware using oscilloscopes, logic analyzers, and environmental testing equipment.
+- Develop and validate communication protocol bridges for industrial and embedded applications.
+- Design and validate DDR3/DDR4 memory interfaces with ECC support.
+- Generate verification documentation, validation procedures, and test reports.
+- Support FPGA hardware debugging and reliability validation for rugged environments.
+
+Minimum Qualifications:
+- Bachelor's degree in Electrical Engineering, Electronics Engineering, Instrumentation Engineering, or related field.
+- Strong proficiency in VHDL or Verilog.
+- Experience with Xilinx Vivado, Intel Quartus Prime, or Microchip Libero SoC.
+- Hands-on experience using oscilloscopes, logic analyzers, and hardware debugging tools.
+- Experience with DDR3/DDR4 memory interfaces and Error Correction Code (ECC).
+- Experience with Modbus, CAN, Ethernet/IP, SPI, I2C, ADC/DAC, JESD204B, and LVDS interfaces.
+ 
+Preferred Qualifications:
+- Experience with Triple Modular Redundancy (TMR).
+- Knowledge of fault-tolerant FPGA design techniques.
+- Understanding of low-power FPGA design.
+- Experience developing battery-operated embedded systems.
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+Job Description 7 :
+
+Responsibilities:
+- Execute post-silicon validation on Intel FPGA and SoC platforms.
+- Validate PCIe, USB 3.0, Ethernet, SATA, and peripheral IPs on FPGA hardware.
+- Develop automated validation suites using Python and Tcl.
+- Analyze setup/hold timing violations, clock domain crossing issues, and FPGA pin constraints.
+- Capture and debug logic failures using SignalTap and JTAG debugging tools.
+- Collaborate with firmware teams during board bring-up and system integration.
+ 
+Minimum Qualifications:
+- Bachelor's or Master's degree in ECE, VLSI, Embedded Systems, or related field.
+- 2–5 years of FPGA validation and hardware bring-up experience.
+- Strong knowledge of Verilog, VHDL, Intel Quartus Prime, SignalTap, and ModelSim.
+- Experience with PCIe, Ethernet, USB 3.0, SATA, SPI, I2C, UART, AXI, and AHB protocols.
+- Strong Python, Tcl, and Linux Shell scripting skills.
+- Experience debugging timing violations and clock domain crossing issues.
+ 
+Preferred Qualifications:
+- Experience with Intel Agilex, Stratix 10, or Falcon Mesa platforms.
+- Experience with bare-metal C driver development.
+- Knowledge of Intel FPGA architecture.
+- Experience with post-silicon validation workflows.
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+Job Description 8 :
+
+Responsibilities:
+- Synthesize and map ASIC RTL designs onto FPGA prototyping platforms.
+- Plan and execute Hardware-in-the-Loop (HIL), system integration, and environmental validation.
+- Perform static timing analysis, timing constraint development, and timing closure.
+- Perform board bring-up and debug signal integrity issues using hardware debug tools.
+- Mentor engineers on FPGA validation methodologies and documentation practices.
+- Support secure embedded hardware validation throughout the development lifecycle.
+
+Minimum Qualifications:
+- Bachelor's or Master's degree in Electrical Engineering or Computer Engineering.
+- 5+ years of experience in FPGA validation and prototyping.
+- Strong knowledge of Verilog, SystemVerilog, and VHDL.
+- Experience with Xilinx Vivado, Intel Quartus Prime, and Synopsys Synplify Pro.
+- Hands-on experience with oscilloscopes, logic analyzers, spectrum analyzers, and JTAG tools.
+- Experience performing Static Timing Analysis (STA) and timing closure.
+ 
+Preferred Qualifications:
+- Experience validating PCIe, Ethernet, and Serial RapidIO interfaces.
+- Knowledge of secure hardware development methodologies.
+- Experience with defense electronics standards.
+- Ability to obtain a U.S. Secret Security Clearance.
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+Job Description 9 :
+ 
+Responsibilities:
+- Architect and develop FPGA-based emulation platforms for complex digital hardware.
+- Develop SystemVerilog/UVM verification environments and SystemVerilog Assertions (SVA).
+- Map high-speed RTL designs onto FPGA platforms while optimizing timing and clock structures.
+- Perform FPGA hardware bring-up and integrate optical transceivers with host processors.
+- Drive functional and code coverage closure.
+- Maintain automated CI/CD regression pipelines for FPGA verification.
+ 
+Minimum Qualifications:
+- Bachelor's, Master's, or Ph.D. in Electrical Engineering, Computer Science, or related field.
+- 8+ years of experience in FPGA emulation, digital verification, and hardware bring-up.
+- Strong knowledge of SystemVerilog, UVM, SVA, and Coverage-Driven Verification.
+- Experience with Xilinx Vivado, Intel Quartus, Synopsys ProtoCompiler, and Cadence Palladium/Protium.
+- Experience with PCIe, CXL, SerDes, and optical communication interfaces.
+- Strong programming skills in Python, Tcl, C/C++, and Makefile.
+ 
+Preferred Qualifications:
+- Experience with optical communication or silicon photonics.
+- Experience with multi-FPGA partitioning.
+- Knowledge of FPGA timing optimization techniques.
+- Experience with high-speed link architectures.
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+Job Description 10 :
+ 
+Responsibilities:
+- Validate digital logic wrappers and signal processing blocks on FPGA validation platforms.
+- Develop Python-based automated validation frameworks for laboratory testing.
+- Perform FPGA prototyping, bitstream generation, and timing closure.
+- Debug clock domain crossing issues and peripheral timing failures.
+- Collaborate with mixed-signal engineering teams to validate digital and analog interfaces.
+- Support post-silicon hardware validation and laboratory automation.
+ 
+Minimum Qualifications:
+- Bachelor's or Master's degree in Electrical or Electronics Engineering.
+- Strong knowledge of Verilog, SystemVerilog, C/C++, and Python.
+- Experience with Xilinx Vivado, Intel Quartus, ModelSim, and QuestaSim.
+- Experience validating Automotive Ethernet, CAN-FD, LIN, SPI, I2C, and SerDes interfaces.
+- Experience with Python automation using PyVISA, SCPI, LabVIEW, oscilloscopes, and logic analyzers.
+- Experience performing FPGA timing closure and hardware debugging.
+ 
+Preferred Qualifications:
+- Knowledge of ISO 26262 functional safety standards.
+- Experience with Analog Mixed-Signal (AMS) validation.
+- Experience with AMS co-simulation environments.
+- Knowledge of automotive electronics validation.
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+Job Description 11 :
+ 
+Responsibilities:
+- Develop and execute FPGA validation plans for sensing and imaging systems.
+- Perform board bring-up, hardware integration, and post-silicon validation.
+- Validate camera interfaces, image sensors, and high-speed data acquisition pipelines.
+- Develop automated validation and regression frameworks using Python.
+- Debug hardware, firmware, and FPGA issues using laboratory instrumentation.
+- Collaborate with ASIC, firmware, software, and system engineering teams throughout product development.
+ 
+Minimum Qualifications:
+- Bachelor's or Master's degree in Electrical Engineering, Computer Engineering, or related field.
+- Experience with Verilog, VHDL, or SystemVerilog.
+- Experience using Xilinx Vivado, Intel Quartus Prime, ModelSim, or QuestaSim.
+- Experience validating MIPI CSI-2, LVDS, PCIe, USB, SPI, I2C, and UART interfaces.
+- Experience using oscilloscopes, logic analyzers, protocol analyzers, and JTAG debugging tools.
+- Strong programming skills in Python, C, or C++.
+- Experience with Linux-based development environments.
+ 
+Preferred Qualifications:
+- Experience with image sensor validation.
+- Knowledge of ISP (Image Signal Processing) pipelines.
+- Experience with high-speed camera systems.
+- Experience with automated laboratory testing frameworks.
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+Job Description 12 :
+ 
+Responsibilities:
+- Develop FPGA verification environments for aerospace and defense applications.
+- Perform simulation, hardware validation, and FPGA board bring-up.
+- Execute functional, integration, and regression testing for FPGA designs.
+- Develop automated verification scripts and regression workflows.
+- Debug FPGA hardware using embedded logic analyzers and laboratory equipment.
+- Collaborate with hardware, software, and systems engineering teams throughout the verification lifecycle.
+ 
+Minimum Qualifications:
+- Bachelor's or Master's degree in Electrical Engineering, Computer Engineering, or related field.
+- Experience with SystemVerilog, UVM, and VHDL.
+- Experience using Xilinx Vivado, Intel Quartus Prime, QuestaSim, or ModelSim.
+- Experience validating PCIe, Ethernet, SPI, I2C, UART, MIL-STD-1553, and JESD204 interfaces.
+- Experience with FPGA board bring-up and post-silicon validation.
+- Strong Python, Tcl, or Shell scripting skills.
+- Experience using oscilloscopes, logic analyzers, and JTAG debugging tools.
+ 
+Preferred Qualifications:
+- Experience with DO-254 hardware development standards.
+- Knowledge of FPGA safety-critical system verification.
+- Experience with Hardware-in-the-Loop (HIL) testing.
+- Ability to obtain and maintain a U.S. Security Clearance.
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+Job Description 13 :
+ 
+Responsibilities:
+- Develop FPGA emulation and validation platforms for complex digital systems.
+- Perform FPGA synthesis, implementation, timing analysis, and timing closure.
+- Execute board bring-up, hardware debugging, and post-silicon validation.
+- Develop automation scripts for FPGA build, validation, and regression execution.
+- Debug protocol, timing, and functional failures using laboratory equipment.
+- Collaborate with RTL, firmware, and hardware engineering teams.
+ 
+Minimum Qualifications:
+- Bachelor's or Master's degree in Electrical Engineering, Electronics Engineering, or related field.
+- Experience with Verilog, SystemVerilog, and VHDL.
+- Experience using Xilinx Vivado, Intel Quartus Prime, Synopsys Synplify Pro, and ModelSim.
+- Experience validating PCIe, DDR4, Ethernet, AXI, SPI, I2C, and UART interfaces.
+- Experience using oscilloscopes, logic analyzers, protocol analyzers, and JTAG debugging tools.
+- Strong programming skills in Python, Tcl, Shell, or C/C++.
+- Experience performing FPGA timing analysis and hardware debugging.
+ 
+Preferred Qualifications:
+- Experience with FPGA emulation platforms.
+- Knowledge of Static Timing Analysis (STA).
+- Experience with multi-FPGA prototyping.
+- Experience with automated FPGA regression frameworks.
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+Job Description 14 :
+ 
+Responsibilities:
+- Lead FPGA validation, board bring-up, and hardware integration activities.
+- Develop FPGA validation plans and automated test frameworks.
+- Validate communication interfaces and embedded processor subsystems.
+- Perform root cause analysis for hardware, firmware, and FPGA issues.
+- Coordinate cross-functional validation activities with hardware and software teams.
+- Generate validation reports and technical documentation.
+ 
+Minimum Qualifications:
+- Bachelor's or Master's degree in Electrical Engineering, Computer Engineering, or related field.
+- Experience with Verilog, VHDL, and SystemVerilog.
+- Experience using Xilinx Vivado, Intel Quartus Prime, and ModelSim.
+- Experience validating PCIe, Ethernet, DDR4, SPI, I2C, UART, AXI, and CAN interfaces.
+- Experience with FPGA board bring-up and post-silicon validation.
+- Strong Python, Tcl, or Shell scripting skills.
+- Experience using oscilloscopes, logic analyzers, and JTAG debugging tools.
+
+Preferred Qualifications:
+- Experience leading FPGA validation teams.
+- Knowledge of embedded system integration.
+- Experience with FPGA-based communication systems.
+- Strong technical documentation and project coordination skills.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+Job Description 15 :
+ 
+Responsibilities:
+- Validate FPGA RTL implementations for high-speed packet processing applications.
+- Perform FPGA synthesis, implementation, timing analysis, and timing closure.
+- Develop automated validation, regression, and performance testing frameworks.
+- Execute board bring-up and hardware debugging using laboratory instrumentation.
+- Validate high-speed networking interfaces and packet processing pipelines.
+- Collaborate with RTL, networking, firmware, and hardware engineering teams.
+ 
+Minimum Qualifications:
+- Bachelor's or Master's degree in Electrical Engineering, Computer Engineering, or related field.
+- Experience with Verilog, SystemVerilog, and VHDL.
+- Experience using Xilinx Vivado, Intel Quartus Prime, ModelSim, and QuestaSim.
+- Experience validating Ethernet, PCIe, AXI, DDR4, SPI, I2C, and UART interfaces.
+- Experience with FPGA board bring-up, post-silicon validation, and timing closure.
+- Strong programming skills in Python, Tcl, Shell, or C/C++.
+- Experience using oscilloscopes, logic analyzers, protocol analyzers, and JTAG debugging tools.
+ 
+Preferred Qualifications:
+- Experience with high-speed networking and packet processing.
+- Knowledge of FPGA performance optimization.
+- Experience with FPGA-based network acceleration platforms.
+- Experience developing automated performance validation frameworks.
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+Job Description 16 :
+ 
+Responsibilities:
+- Perform pre-silicon and post-silicon validation of GPU and Tegra SoCs using multi-FPGA prototyping platforms.
+- Bring up, test, and debug multi-million gate SoC designs mapped to FPGA platforms.
+- Collaborate with ASIC design and verification teams to validate RTL using PCIe, DDR, and CXL interfaces.
+- Perform hardware debugging using logic analyzers, oscilloscopes, Vivado ILA, and ChipScope.
+- Develop diagnostic applications in C/C++ for embedded processors.
+- Develop Python and Tcl scripts to automate bitstream generation and laboratory testing.
+ 
+Minimum Qualifications:
+- Bachelor's or Master's degree in Electrical Engineering or related field.
+- 3+ years of FPGA validation, prototyping, or RTL design experience.
+- Experience with Xilinx UltraScale/UltraScale+ FPGA architectures and Vivado.
+- Strong Verilog or SystemVerilog programming skills.
+- Experience debugging FPGA hardware in laboratory environments.
+- Strong Python, Perl, and Tcl scripting skills.
+ 
+Preferred Qualifications:
+- Experience with GPU or SoC validation.
+- Knowledge of high-speed interfaces including PCIe, DDR, and CXL.
+- Experience with multi-FPGA prototyping platforms.
+- Strong collaboration skills across ASIC and verification teams.
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+Job Description 17 :
+
+Responsibilities:
+- Validate mixed-signal and digital IP blocks on FPGA validation boards.
+- Develop automated validation frameworks using Python and LabVIEW.
+- Analyze clock domain crossing (CDC) issues and timing constraints.
+- Perform laboratory validation using oscilloscopes, BERTs, and protocol analyzers.
+- Validate SPI, I2C, CAN, and Ethernet interfaces.
+- Collaborate with firmware teams during hardware-software integration.
+ 
+Minimum Qualifications:
+- Bachelor's or Master's degree in Electrical or Computer Engineering.
+- 4+ years of FPGA validation experience.
+- Strong SystemVerilog and VHDL programming skills.
+- Experience using Intel Quartus or Xilinx Vivado.
+- Experience with CDC analysis and timing validation.
+- Experience using Python and LabVIEW for automation.
+
+Preferred Qualifications:
+- Experience with automotive communication protocols including CAN, LIN, and FlexRay.
+- Experience validating mixed-signal systems.
+- Knowledge of automotive electronics.
+- Experience with post-silicon validation workflows.
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+Job Description 18 :
+
+Responsibilities:
+- Develop UVM-based verification environments for FPGA hardware.
+- Design verification testbenches for camera, LiDAR, and radar processing systems.
+- Execute regressions, track bugs, and achieve coverage closure.
+- Support FPGA board bring-up and laboratory debugging.
+- Collaborate with hardware engineering teams throughout the verification lifecycle.
+
+Minimum Qualifications:
+- Bachelor's or Master's degree in Electrical Engineering or Computer Engineering.
+- 5+ years of FPGA or ASIC verification experience.
+- Strong SystemVerilog and UVM expertise.
+- Experience validating AXI, PCIe, and MIPI protocols.
+- Experience working with FPGA hardware in laboratory environments.
+ 
+Preferred Qualifications:
+- Experience with DSP or image processing pipelines.
+- Knowledge of ISO 26262 functional safety standards.
+- Experience with autonomous vehicle hardware.
+- Experience with coverage-driven verification.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+Job Description 19 :
+ 
+Responsibilities:
+- Perform pre-silicon and post-silicon validation of FPGA-based telecom equipment.
+- Validate CPRI, eCPRI, and 10G/25G Ethernet MAC protocols.
+- Develop validation test plans and execute test cases on hardware platforms.
+- Debug FPGA designs using ChipScope and Integrated Logic Analyzer (ILA).
+- Develop Python and Tcl automation scripts for validation.
+ 
+Minimum Qualifications:
+- 6–9 years of FPGA validation experience.
+- Strong Verilog and VHDL programming skills.
+- Experience with Xilinx Zynq MPSoC or RFSoC platforms.
+- Experience validating high-speed serial transceivers (SerDes).
+- Experience with Python and Tcl scripting.
+- Strong communication skills.
+ 
+Preferred Qualifications:
+- Experience validating 5G infrastructure hardware.
+- Knowledge of telecom networking protocols.
+- Experience with Ethernet MAC validation.
+- Experience with laboratory hardware debugging.
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+Job Description 20 :
+ 
+Responsibilities:
+- Lead a team of FPGA validation engineers.
+- Own the complete FPGA validation lifecycle from test planning to sign-off.
+- Develop hardware testbenches for FPGA validation.
+- Perform post-route simulation, timing analysis, and timing closure.
+- Execute FPGA hardware bring-up and laboratory debugging.
+- Ensure DO-254 compliance throughout the verification process.
+
+Minimum Qualifications:
+- Bachelor's or Master's degree in Electronics or Electrical Engineering.
+- 8–12 years of FPGA validation and verification experience.
+- Experience with post-route simulation and timing analysis.
+- Experience using JTAG, oscilloscopes, and logic analyzers.
+- Strong knowledge of FPGA hardware debugging.
+ 
+Preferred Qualifications:
+- Experience with Microsemi/Actel FPGA platforms.
+- Experience with DO-254 standards.
+- Experience validating ARINC 429, MIL-STD-1553, SPI, and I2C protocols.
+- Experience leading FPGA validation teams.
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+Job Description 21 :
+ 
+Responsibilities:
+- Develop robust simulation environments for high-speed networking and trading logic.
+- Verify complex RTL designs using SystemVerilog and modern verification methodologies.
+- Collaborate with FPGA designers to identify and resolve timing and functional issues.
+- Perform post-synthesis and post-route simulations.
+- Develop and maintain automated regression pipelines.
+- Support performance optimization for ultra-low latency FPGA designs.
+ 
+Minimum Qualifications:
+- 3+ years of digital verification experience.
+- Strong knowledge of SystemVerilog.
+- Experience with Ethernet, TCP/IP, and UDP networking protocols.
+- Programming experience in C++ and Python.
+- Experience with FPGA simulation and verification methodologies.
+
+Preferred Qualifications:
+- Experience with ultra-low latency FPGA applications.
+- Knowledge of high-performance networking hardware.
+- Experience optimizing FPGA performance.
+- Strong analytical and debugging skills.
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+Job Description 22 :
+ 
+Responsibilities:
+- Perform functional verification and laboratory validation of FPGA designs used in missile defense systems.
+- Execute timing closure and FPGA simulation.
+- Test and debug FPGA hardware in laboratory environments.
+- Validate FPGA functionality using industry-standard simulation tools.
+- Collaborate with hardware engineering teams throughout the validation lifecycle.
+ 
+Minimum Qualifications:
+- Bachelor's degree in Electrical Engineering.
+- Experience with VHDL.
+- Experience using Questa or ModelSim simulation tools.
+- Experience debugging FPGA hardware in laboratory environments.
+- U.S. Citizenship with the ability to obtain a Secret Security Clearance.
+ 
+Preferred Qualifications:
+- Active Secret Security Clearance.
+- Experience using Xilinx Vivado or Microsemi Libero.
+- Knowledge of Digital Signal Processing (DSP) hardware implementation.
+- Experience using Python for test automation.
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+Job Description 23 :
+ 
+Responsibilities:
+- Validate FPGA designs used in high-speed data acquisition systems.
+- Develop SystemVerilog verification testbenches.
+- Perform laboratory testing on FPGA prototype boards.
+- Troubleshoot signal integrity issues and high-speed memory interfaces.
+- Validate PCIe and DDR-based hardware designs.
+ 
+Minimum Qualifications:
+- Bachelor's or Master's degree in Electrical Engineering.
+- 3–5 years of FPGA validation experience.
+- Strong knowledge of digital design principles.
+- Experience with SystemVerilog.
+- Experience using laboratory equipment including oscilloscopes.
+- Programming experience in C, C++, or C#.
+ 
+Preferred Qualifications:
+- Experience validating ADC/DAC interfaces.
+- Experience with PCIe and DDR memory interfaces.
+- Knowledge of signal integrity analysis.
+- Experience developing instrument control software.
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+Job Description 24 :
+
+Responsibilities:
+- Port Snapdragon SoCs onto multi-FPGA prototyping platforms.
+- Perform FPGA synthesis, partitioning, routing, and implementation.
+- Debug FPGA emulation and prototyping compilation failures.
+- Perform FPGA platform bring-up in laboratory environments.
+- Validate USB, PCIe, MIPI, and memory interfaces.
+- Investigate functional mismatches between RTL and FPGA prototypes.
+
+Minimum Qualifications:
+- Bachelor's degree in Engineering, Computer Science, Information Systems, or related field.
+- 2+ years of Hardware Engineering experience.
+- Experience with Verilog or SystemVerilog.
+- Experience with FPGA prototyping and hardware validation.
+ 
+Preferred Qualifications:
+- Experience with Synopsys HAPS or Cadence Protium.
+- Experience with Python, Tcl, or Perl scripting.
+- Experience with multi-FPGA prototyping.
+- Knowledge of mobile SoC architectures.
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+Job Description 25 :
+ 
+Responsibilities:
+- Plan and execute validation testing for flight-critical FPGA avionics systems.
+- Develop Hardware-in-the-Loop (HIL) test scripts for hardware interfaces.
+- Document validation results and resolve hardware anomalies.
+- Perform laboratory validation to verify timing and power margins.
+- Support flight readiness reviews through validation documentation.
+
+Minimum Qualifications:
+- Bachelor's degree in Electrical Engineering or Computer Engineering.
+- 5+ years of FPGA verification or post-silicon validation experience.
+- Experience with VHDL.
+- Experience with Hardware-in-the-Loop (HIL) testing.
+- U.S. Citizenship, U.S. National status, or U.S. Permanent Residency.
+ 
+Preferred Qualifications:
+- Experience validating avionics hardware.
+- Experience with laboratory hardware debugging.
+- Knowledge of flight-critical embedded systems.
+- Experience preparing hardware validation documentation.
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+Job Description 26 :
+ 
+Responsibilities:
+- Own validation of high-speed digital boards containing Xilinx FPGAs, ADCs, and DACs.
+- Perform hardware bring-up for new FPGA board revisions.
+- Validate JESD204B/C, SpaceWire, and high-speed SerDes interfaces.
+- Develop Python drivers for Ethernet and UART communication during hardware testing.
+- Conduct thermal and vacuum chamber validation testing.
+- Perform laboratory debugging using oscilloscopes and spectrum analyzers.
+ 
+Minimum Qualifications:
+- 5+ years of hardware testing or FPGA validation experience.
+- Strong experience with Xilinx FPGA toolchains.
+- Experience validating JESD204B/C, SpaceWire, SerDes, Ethernet, and UART interfaces.
+- Experience using oscilloscopes, spectrum analyzers, and laboratory debugging tools.
+- Strong Python programming skills for automation.
+ 
+Preferred Qualifications:
+- Experience validating satellite communication hardware.
+- Experience with environmental testing including thermal and vacuum chambers.
+- Knowledge of high-speed digital board validation.
+- Experience with FPGA-based communication payloads.
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+Job Description 27 :
+ 
+Responsibilities:
+- Perform post-silicon and FPGA validation activities.
+- Develop validation test cases and execute FPGA simulations.
+- Compile FPGA designs and perform functional verification.
+- Execute FPGA hardware bring-up and laboratory debugging.
+- Debug FPGA designs using internal logic analyzers.
+- Validate PCIe, Ethernet, SPI, and I2C interfaces.
+ 
+Minimum Qualifications:
+- 4–8 years of FPGA or post-silicon validation experience.
+- Strong SystemVerilog and Verilog programming skills.
+- Experience with UVM verification methodology.
+- Experience using Python scripting.
+- Experience with C/C++ programming.
+- Experience debugging FPGA hardware.
+ 
+Preferred Qualifications:
+- Experience with post-silicon validation workflows.
+- Experience with FPGA simulation environments.
+- Knowledge of high-speed communication protocols.
+- Strong laboratory debugging skills.
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+Job Description 28 :
+
+Responsibilities:
+- Perform functional verification of Digital Front-End (DFE) algorithms on FPGA.
+- Execute post-silicon validation of CPRI, eCPRI, and JESD204B/C interfaces.
+- Develop automated validation environments using MATLAB, Python, or LabVIEW.
+- Debug signal integrity and timing issues on radio hardware.
+- Validate FPGA designs for Open RAN (O-RAN) radio units.
+ 
+Minimum Qualifications:
+- Bachelor's degree in Electrical Engineering or equivalent.
+- 4+ years of FPGA laboratory validation experience.
+- Experience with Intel Agilex or Xilinx UltraScale FPGA platforms.
+- Experience validating CPRI, eCPRI, and JESD204B/C interfaces.
+- Experience using MATLAB, Python, or LabVIEW for automation.
+
+Preferred Qualifications:
+- Experience with 4G/5G radio architectures.
+- Experience validating Digital Front-End (DFE) algorithms.
+- Knowledge of RF transceiver interfaces.
+- Experience with O-RAN hardware platforms.
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+Job Description 29 :
+ 
+Responsibilities:
+- Validate DSPs and control logic using multi-FPGA prototyping platforms.
+- Map and optimize RTL for FPGA synthesis.
+- Debug hardware and firmware interactions during laboratory validation.
+- Validate SerDes, I2C, and MDIO interfaces.
+- Mentor junior engineers and improve FPGA validation methodologies.
+ 
+Minimum Qualifications:
+- Master's degree in Electrical Engineering or Computer Engineering.
+- 7+ years of FPGA validation or emulation experience.
+- Experience with Synopsys HAPS or similar FPGA prototyping platforms.
+- Strong Verilog, SystemVerilog, and C programming skills.
+- Experience with Python and Tcl scripting.
+ 
+Preferred Qualifications:
+- Experience validating coherent optical transceivers.
+- Experience with cloud optics hardware.
+- Experience mentoring FPGA validation engineers.
+- Knowledge of high-speed optical communication systems.
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+Job Description 30 :
+ 
+Responsibilities:
+- Develop post-silicon validation test plans for FPGA core fabric, DSP blocks, and embedded memory.
+- Execute validation on physical silicon using laboratory equipment.
+- Investigate validation failures and determine root causes across silicon, hardware, and test environments.
+- Develop bare-metal C applications and Python automation scripts.
+- Collaborate with design teams to resolve silicon validation issues.
+ 
+Minimum Qualifications:
+- Bachelor's or Master's degree in Electrical or Electronic Engineering.
+- Strong understanding of digital logic and computer architecture.
+- Experience using oscilloscopes, BERTs, and logic analyzers.
+- Programming experience in C, C++, and Python.
+- Experience with FPGA design or validation.
+ 
+Preferred Qualifications:
+- Experience validating Intel Agilex FPGA platforms.
+- Experience with post-silicon validation workflows.
+- Knowledge of FPGA core fabric, DSP blocks, and embedded memory validation.
+- Experience developing automated hardware validation frameworks.
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+Job Description 31 :
+ 
+Responsibilities:
+- Perform post-silicon validation of Versal ACAP FPGA devices.
+- Debug hardware issues in collaboration with RTL designers.
+- Develop Python scripts to automate oscilloscope captures and pattern generator inputs.
+- Validate PCIe Gen5, DDR5, and high-speed 112G SerDes interfaces.
+- Perform laboratory debugging using Vivado ILA and VIO tools.
+ 
+Minimum Qualifications:
+- Bachelor's or Master's degree in Electrical Engineering.
+- 3+ years of post-silicon laboratory validation experience.
+- Experience with Xilinx Vivado laboratory tools (ILA, VIO).
+- Strong Python and Tcl scripting skills.
+- Knowledge of high-speed clocking and signal integrity.
+ 
+Preferred Qualifications:
+- Experience validating AMD/Xilinx Versal ACAP devices.
+- Experience with PCIe Gen5 and DDR5 interfaces.
+- Knowledge of high-speed SerDes validation.
+- Experience with FPGA laboratory automation.
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+Job Description 32 :
+ 
+Responsibilities:
+- Lead post-synthesis verification and laboratory validation of complex FPGA designs.
+- Develop validation test plans following DO-254 guidelines.
+- Perform hardware debugging using logic analyzers and spectrum analyzers.
+- Support hardware-software integration with cross-functional engineering teams.
+- Lead FPGA validation activities for Electronic Warfare systems.
+ 
+Minimum Qualifications:
+- 8+ years of digital design or FPGA validation experience.
+- Strong SystemVerilog and VHDL programming skills.
+- Experience with FPGA laboratory validation.
+- U.S. Citizenship with the ability to obtain a Secret Security Clearance.
+ 
+Preferred Qualifications:
+- Experience with DO-254 validation methodologies.
+- Experience leading FPGA validation teams.
+- Experience with Electronic Warfare systems.
+- Strong laboratory debugging skills.
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+Job Description 33 :
+ 
+Responsibilities:
+- Build and maintain FPGA prototyping platforms for pre-silicon ASIC validation.
+- Map ASIC designs onto multi-FPGA platforms including Protium and HAPS.
+- Resolve timing closure, routing, and FPGA partitioning issues.
+- Perform FPGA platform bring-up and support early firmware development.
+- Debug FPGA emulation failures and correlate results with RTL simulation.
+ 
+Minimum Qualifications:
+- Bachelor's degree in Electrical Engineering or Computer Science.
+- 5+ years of FPGA prototyping or emulation experience.
+- Strong Verilog and SystemVerilog programming skills.
+- Experience with AMBA AXI and AHB protocols.
+- Experience using multi-FPGA prototyping platforms.
+ 
+Preferred Qualifications:
+- Experience with Synopsys HAPS or Cadence Protium.
+- Experience with ASIC pre-silicon validation.
+- Knowledge of FPGA timing closure.
+- Experience supporting firmware bring-up.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+Job Description 34 :
+ 
+Responsibilities:
+- Own physical validation and testing of flight-critical FPGA systems.
+- Develop automated hardware test frameworks using Python.
+- Validate RS-422, SpaceWire, and CAN communication interfaces.
+- Probe hardware boards, trace signals, and debug FPGA behavior.
+- Perform laboratory-based FPGA validation and hardware troubleshooting.
+ 
+Minimum Qualifications:
+- 3+ years of hardware testing experience in laboratory environments.
+- Ability to read hardware schematics.
+- Experience with Verilog and VHDL.
+- Experience with Python automation.
+ 
+Preferred Qualifications:
+- Experience validating avionics FPGA systems.
+- Experience with aerospace communication protocols.
+- Strong hardware debugging skills.
+- Experience developing automated validation frameworks.
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+Job Description 35 :
+ 
+Responsibilities:
+- Validate electronic subsystems containing large-scale FPGA devices.
+- Conduct Hardware-in-the-Loop (HITL) testing.
+- Generate hardware test vectors from simulation.
+- Apply validation vectors to target FPGA hardware.
+- Document validation results and support compliance audits.
+ 
+Minimum Qualifications:
+- Bachelor's degree in Engineering.
+- 3+ years of digital electronics testing experience.
+- Ability to obtain a U.S. Security Clearance.
+- Experience with FPGA subsystem validation.
+ 
+referred Qualifications:
+- Experience with aerospace hardware validation.
+- Experience with Hardware-in-the-Loop (HITL) testing.
+- Experience supporting compliance audits.
+- Knowledge of defense hardware development.
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+Job Description 36 :
+ 
+Responsibilities:
+- Design FPGA bitstreams using Verilog or VHDL to interface with silicon prototypes.
+- Validate high-performance mixed-signal ICs using custom FPGA platforms.
+- Validate JESD204B/C links between FPGA devices and ADC/DAC components.
+- Debug hardware and signal integrity issues in laboratory environments.
+- Develop automation scripts using Python and C# to control lab equipment and automate measurements.
+ 
+Minimum Qualifications:
+- Bachelor's or Master's degree in Electronics Engineering.
+- 2–5 years of laboratory validation experience.
+- Experience with Verilog or VHDL.
+- Experience using Xilinx FPGAs and Vivado.
+- Experience using high-frequency oscilloscopes and spectrum analyzers.
+- Strong Python or C# programming skills.
+ 
+Preferred Qualifications:
+- Experience validating mixed-signal ICs.
+- Experience with JESD204B/C interfaces.
+- Knowledge of ADC/DAC validation.
+- Experience with automated laboratory measurements.
+- 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+Job Description 37 :
+ 
+Responsibilities:
+- Define and execute hardware validation plans for networking FPGA platforms.
+- Perform FPGA board bring-up in laboratory environments.
+- Debug 10G, 25G, and 100G Ethernet links, PCIe interfaces, and aerospace communication protocols.
+- Collaborate with RTL and software engineering teams throughout validation.
+- Support networking payload validation for satellite communication systems.
+ 
+Minimum Qualifications:
+- Bachelor's degree in Electrical Engineering or Computer Engineering.
+- 4+ years of FPGA hardware laboratory validation experience.
+- Experience using oscilloscopes, BERTs, and protocol analyzers.
+- Experience with Python and Tcl scripting.
+- Experience validating Ethernet and PCIe interfaces.
+
+Preferred Qualifications:
+- Experience with satellite communication systems.
+- Experience validating high-speed networking hardware.
+- Knowledge of aerospace communication protocols.
+- Experience with FPGA networking payloads.
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+Job Description 38 :
+ 
+Responsibilities:
+- Develop SystemVerilog UVM verification environments.
+- Perform laboratory testing on FPGA-based radar and sensor processing modules.
+- Identify discrepancies between simulation results and physical hardware behavior.
+- Support FPGA integration into larger radar systems.
+- Collaborate with hardware and system engineering teams during validation.
+
+Minimum Qualifications:
+- Bachelor's degree in Electrical Engineering.
+- 5 years of FPGA or digital validation experience.
+- Experience with SystemVerilog and UVM.
+- Experience using Mentor Graphics Questa and Xilinx or Intel FPGA workflows.
+- Active Secret Security Clearance.
+ 
+Preferred Qualifications:
+- Experience validating radar or sensor processing systems.
+- Experience with FPGA hardware integration.
+- Strong laboratory debugging skills.
+- Knowledge of defense hardware validation.
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+Job Description 39 :
+ 
+Responsibilities:
+- Design verification environments for networking and trading FPGA designs.
+- Perform continuous integration testing on FPGA hardware platforms.
+- Debug latency issues and packet drops in ultra-low latency hardware.
+- Develop C++ and Python testing frameworks.
+- Collaborate with FPGA designers to optimize hardware performance.
+ 
+Minimum Qualifications:
+- Bachelor's degree in Computer Engineering or related field.
+- Strong SystemVerilog and UVM experience.
+- Knowledge of Ethernet, TCP/IP, and networking protocols.
+- Experience using FPGA hardware in laboratory environments.
+- Programming experience with C++ and Python.
+ 
+Preferred Qualifications:
+- Experience with ultra-low latency trading systems.
+- Experience optimizing networking hardware.
+- Strong debugging and analytical skills.
+- Experience with continuous integration for FPGA validation.
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+Job Description 40 :
+ 
+Responsibilities:
+- Lead post-synthesis validation of FPGA configurations for automotive platforms.
+- Develop automated Hardware-in-the-Loop (HIL) validation for CAN, LIN, and Automotive Ethernet networks.
+- Perform FPGA board bring-up and debug power and signal integrity issues.
+- Collaborate with functional safety engineering teams.
+- Validate FPGA hardware supporting autonomous driving and infotainment systems.
+ 
+Minimum Qualifications:
+- Bachelor's or Master's degree in Electrical Engineering.
+- 5+ years of FPGA hardware testing and validation experience.
+- Strong Python programming skills for automation.
+- Experience with Hardware-in-the-Loop (HIL) testing.
+- Experience validating CAN, LIN, and Automotive Ethernet interfaces.
+ 
+Preferred Qualifications:
+- Experience in the automotive industry.
+- Knowledge of ISO 26262 functional safety.
+- Experience validating autonomous driving platforms.
+- Experience troubleshooting power and signal integrity issues.
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+Job Description 41 :
+ 
+Responsibilities:
+- Configure and maintain multi-FPGA emulation platforms using Palladium, ZeBu, or HAPS.
+- Perform SoC RTL partitioning, compilation, and timing analysis.
+- Bring up FPGA emulation platforms and debug boot sequences using bare-metal C.
+- Validate PCIe, LPDDR4/LPDDR5, and MIPI interfaces on FPGA hardware.
+- Support early software development and hardware validation.
+ 
+Minimum Qualifications:
+- 4+ years of SoC emulation or FPGA prototyping experience.
+- Strong debugging skills in FPGA laboratory environments.
+- Experience with Verilog, SystemVerilog, and C/C++.
+- Experience with Shell and Python scripting.
+- Experience with FPGA emulation platforms.
+ 
+Preferred Qualifications:
+- Experience with Palladium, ZeBu, or Synopsys HAPS.
+- Experience with automotive SoC validation.
+- Knowledge of LPDDR4/LPDDR5 memory interfaces.
+- Experience supporting early software bring-up.
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+Job Description 42 :
+ 
+Responsibilities:
+- Lead FPGA validation activities on target hardware platforms.
+- Prepare DO-254 compliant validation artifacts and documentation.
+- Perform hardware debugging using logic analyzers, digital storage oscilloscopes, and function generators.
+- Resolve hardware and firmware integration issues.
+- Mentor and lead a team of FPGA validation engineers.
+ 
+Minimum Qualifications:
+- 7+ years of FPGA or hardware validation experience.
+- Experience with Verilog and VHDL.
+- Strong understanding of the DO-254 validation lifecycle.
+- Experience leading FPGA validation teams.
+- Experience using laboratory debugging equipment.
+ 
+Preferred Qualifications:
+- Experience with Microsemi or Actel FPGA tools.
+- Experience validating aerospace hardware.
+- Strong hardware and firmware integration skills.
+- Experience preparing certification documentation.
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+Job Description 43 :
+ 
+Responsibilities:
+- Plan and execute hardware validation in laboratory environments.
+- Develop automated validation frameworks using Python, LabVIEW, or TestStand.
+- Perform stress testing across temperature and voltage operating conditions.
+- Debug digital logic circuits, FPGA devices, and microcontrollers.
+- Present validation findings during design reviews.
+ 
+Minimum Qualifications:
+- Bachelor's degree with 9+ years of relevant engineering experience.
+- Experience with Xilinx Vivado and Integrated Logic Analyzer (ILA).
+- Experience automating laboratory instruments using SCPI and VISA.
+- Experience performing FPGA hardware validation.
+ 
+Preferred Qualifications:
+- Experience with defense communication systems.
+- Experience conducting environmental stress testing.
+- Secret Security Clearance.
+- Experience leading design reviews.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+Job Description 44 :
+
+Responsibilities:
+- Validate high-speed networking logic on FPGA prototyping platforms.
+- Debug hardware failures using Spirent, Ixia traffic generators, and software scripts.
+- Develop Tcl, Python, and Bash scripts for regression testing and log analysis.
+- Correlate laboratory validation results with pre-silicon RTL simulation.
+- Validate 100G and 400G MAC/PCS networking interfaces.
+ 
+Minimum Qualifications:
+- Bachelor's or Master's degree in Electrical Engineering or Computer Science.
+- 3+ years of FPGA laboratory validation or RTL verification experience.
+- Experience with high-speed SerDes interfaces.
+- Strong analytical and troubleshooting skills.
+- Experience with networking hardware validation.
+ 
+Preferred Qualifications:
+- Experience with Silicon One ASIC validation.
+- Experience using Spirent or Ixia traffic generators.
+- Experience validating high-speed networking protocols.
+- Experience developing automated regression frameworks.
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+Job Description 45 :
+
+Responsibilities:
+- Perform post-silicon validation of FPGA devices on 5G radio boards.
+- Develop and execute validation test cases using MATLAB, Python, and C.
+- Validate CPRI, eCPRI, JESD204, and memory interfaces.
+- Collaborate with RF and systems engineering teams to debug radio performance issues.
+- Support FPGA validation for digital signal processing (DSP) applications.
+ 
+Minimum Qualifications:
+- Bachelor's degree in Electrical Engineering.
+- 4+ years of hands-on FPGA laboratory validation experience.
+- Strong understanding of Intel Agilex, Stratix, or Xilinx FPGA architectures.
+- Experience with MATLAB, Python, and C programming.
+- Experience using vector signal analyzers and laboratory equipment.
+ 
+Preferred Qualifications:
+- Experience validating 5G baseband hardware.
+- Knowledge of RF systems and radio architectures.
+- Experience with DSP hardware validation.
+- Experience debugging wireless communication systems.
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
