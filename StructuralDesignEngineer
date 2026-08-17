@@ -1,101 +1,813 @@
 Job Description 1
-
 Responsibilities:
-
-- Own post-silicon validation and hardware bring-up for FPGA-based SoC architectures.
-- Synthesize, implement, place-and-route, and achieve timing closure using Microchip Libero SoC and Xilinx Vivado.
-- Develop processor-based test environments using ARM Cortex-M and RISC-V platforms.
-- Develop Embedded C/C++ test cases to validate FPGA hardware IPs.
-- Utilize embedded logic analyzers and lab equipment to debug system-level, protocol, and timing failures.
-- Perform board bring-up, signal integrity checks, and validation of high-speed serial interfaces.
-- Collaborate with RTL design, verification, firmware, software, and board design teams.
-
+- Perform 3D finite element modeling, structural analysis, and design for high-rise, commercial, and residential building projects.
+- Design reinforced concrete (RCC) structural elements including foundations, columns, shear walls, transfer slabs, and beams.
+- Analyze lateral load-resisting systems under wind and seismic loading using dynamic response spectrum and equivalent static methods.
+- Coordinate with architectural, MEP, geotechnical, and construction teams to resolve spatial clashes and incorporate design constraints.
+- Prepare, review, and approve structural calculation packages, detailed design drawings, and bar bending schedules (BBS).
+- Conduct structural peer reviews and ensure compliance with local building bye-laws and international design standards.
 Minimum Qualifications:
-
-- Bachelor's or Master's degree in Electrical Engineering, Electronics & Communication, or Computer Engineering.
-- Expert proficiency in SystemVerilog, Verilog, and VHDL.
-- Strong Embedded C/C++ programming skills.
-- Experience with ARM Cortex-M and RISC-V processor-based validation.
-- Experience validating AXI4, AHB, APB, PCIe Gen3/Gen4, DDR4/DDR5, SPI, QSPI, and UART interfaces.
-- Hands-on experience with Microchip Libero SoC, Xilinx Vivado, Intel Quartus Prime, ModelSim, QuestaSim, and Synopsys Identify.
-- Experience using oscilloscopes, logic analyzers, protocol analyzers, and JTAG debuggers.
-- Experience with Python and Tcl scripting for automation.
-
+- Bachelor’s or Master’s degree in Civil or Structural Engineering.
+- 4+ years of experience in structural design of reinforced concrete and steel structures.
+- Strong proficiency in structural analysis tools such as ETABS, SAP2000, SAFE, and STAAD.Pro.
+- In-depth understanding of building codes such as ACI 318, AISC 360, ASCE 7, IBC, IS 456, IS 1893, and IS 875.
+- Working knowledge of AutoCAD and Revit Structure for BIM-based project delivery.
+- Strong grasp of structural mechanics, load path determination, and lateral stability.
 Preferred Qualifications:
-
-- Experience with Secure Boot validation.
-- Knowledge of Physical Unclonable Functions (PUF).
-- Experience validating Hardware Security IP.
-- Knowledge of Static Timing Analysis (STA).
-- Experience with thermal and power profiling.
-- Experience performing FPGA timing closure.
+- Professional Engineer (PE) or Chartered Engineer (CEng) license.
+- Experience with performance-based seismic design (PBD) and non-linear pushover analysis using PERFORM-3D.
+- Familiarity with post-tensioned (PT) slab design using RAM Concept or ADAPT-Builder.
+- Experience with wind tunnel testing data integration into finite element models.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 2
-
 Responsibilities:
-
-- Develop UVM-based verification environments including drivers, monitors, scoreboards, and agents.
-- Develop SystemVerilog Assertions (SVA) for protocol verification.
-- Create constrained-random and transaction-level verification tests.
-- Improve functional and code coverage through coverage-driven verification.
-- Perform FPGA hardware validation and board bring-up.
-- Execute Hardware-in-the-Loop (HIL) testing.
-- Maintain automated CI/CD regression suites.
-- Prepare verification closure reports complying with aerospace standards.
-- Perform root-cause analysis for simulation mismatches and hardware failures.
-- Collaborate with FPGA, hardware, and systems engineering teams.
-
+- Perform structural analysis, modeling, and detailed design for highway and railway bridges, including prestressed concrete (PSC) girders and steel-concrete composite bridges.
+- Execute staged construction analysis, time-dependent creep and shrinkage assessments, and prestressing tendon profile calculations.
+- Design bridge substructures and foundations, including pier caps, piers, abutments, pile caps, drilled shafts, and well foundations.
+- Design elastomeric/pot-PTFE bearings, seismic expansion joints, and crash barriers according to transportation department standards.
+- Prepare comprehensive bridge calculation notes, bills of quantities (BOQ), cost estimates, and construction methodology specifications.
+- Collaborate with geotechnical, highway geometric, and hydrology teams during alignment planning and scour depth determination.
 Minimum Qualifications:
-
-- Bachelor's or Master's degree in Electrical, Electronics, or Computer Engineering.
-- 3+ years of SystemVerilog and UVM verification experience.
-- Experience with AMD/Xilinx Vivado, Zynq UltraScale+, and Zynq RFSoC platforms.
-- Experience validating Ethernet (10G/25G), PCIe, JESD204C, MIL-STD-1553, and SPI protocols.
-- Experience using Xilinx Vivado ILA, oscilloscopes, and logic analyzers.
-- Experience with constrained-random verification, transaction-level verification, and coverage-driven verification.
-- Experience with Python, Tcl, Makefile, and Linux environments.
-- Ability to obtain and maintain a U.S. Secret Security Clearance.
-
+- Bachelor’s or Master’s degree in Civil/Structural Engineering with a focus on Bridge/Transportation structures.
+- 3–7 years of proven experience in bridge analysis and detailed design.
+- Hands-on proficiency with bridge design software such as MIDAS Civil, CSI Bridge, LUSAS, or STAAD.Pro.
+- Strong knowledge of bridge design specifications such as AASHTO LRFD Bridge Design Specifications, IRC:112, IRC:6, and Eurocodes.
+- Strong understanding of prestressed/post-tensioned concrete technology, tendon layouts, and prestress loss computations.
+- Proficiency in AutoCAD for drafting review and reinforcement detailing verification.
 Preferred Qualifications:
-
-- Experience with DO-254 hardware verification.
-- Experience with Cocotb.
-- Experience with Formal Verification tools.
-- Experience with Clock Domain Crossing (CDC) analysis.
-- Experience using SpyGlass CDC or Questa CDC.
-- Experience automating verification workflows using Python and Tcl.
+- Experience in complex bridge topologies such as cable-stayed, extradosed, or balanced cantilever bridges.
+- Knowledge of seismic isolation and soil-structure interaction (SSI) modeling for deep bridge foundations.
+- Experience with BIM for Bridges using OpenBridge Modeler or Tekla Structures.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
 Job Description 3
+Responsibilities:
+- Lead the structural design of heavy industrial structures, including pipe racks, equipment support structures, technological platforms, shelters, and process buildings.
+- Design specialized shallow and deep foundations for vibrating and dynamic machinery such as compressors, centrifugal pumps, turbines, and ball mills.
+- Formulate combined loading scenarios including operating gravity loads, piping thermal expansion loads, wind, seismic, and blast forces.
+- Perform detailed design and verification of bolted and welded steel connections (moment frames, braced frames, base plate assemblies).
+- Coordinate with mechanical, piping stress, electrical, and civil construction teams to verify load data sheets and nozzle load constraints.
+- Review vendor equipment drawings and fabrication shop drawings from steel fabricators.
+Minimum Qualifications:
+- Bachelor’s or Master’s degree in Civil/Structural Engineering.
+- 5+ years of experience in structural engineering within EPC, Oil & Gas, Petrochemical, or Heavy Industrial sectors.
+- High proficiency in STAAD.Pro, RAM Connection, and IDEA StatiCa.
+- Strong knowledge of industrial design standards including AISC 360, AISC 341, ACI 318, ACI 351 (Foundations for Dynamic Equipment), ASCE 7, and PIP (Process Industry Practices).
+- Solid understanding of structural steel detailing, fabrication workflows, and welding/bolting inspection standards.
+Preferred Qualifications:
+- Experience with dynamic frequency analysis for block and table-top foundations.
+- Familiarity with blast-resistant structural design according to ASCE Design of Blast-Resistant Buildings in Petrochemical Facilities.
+- Experience using Navisworks, Smart 3D (S3D), or Tekla Structures for multi-disciplinary clash review.
 
+--------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 4
+Responsibilities:
+- Perform structural design and detailing of precast and prestressed concrete components (hollow-core slabs, precast columns, spandrel beams, load-bearing insulated wall panels).
+- Analyze structural performance during demolding, lifting, transportation, and temporary erection stages to prevent handling cracking and overstressing.
+- Design standard and customized precast connections, including corbels, grouted splice sleeves, base shoe connections, weld plates, and loop ties.
+- Build parametric 3D structural BIM models and oversee the generation of automated shop fabrication drawings and rebar bending schedules.
+- Coordinate with precast manufacturing plant production teams and field erection crews to resolve site queries (RFIs) and non-conformance reports.
+Minimum Qualifications:
+- Bachelor’s degree in Civil/Structural Engineering.
+- 3+ years of experience in precast/prestressed concrete engineering and modular building systems.
+- Proficiency with structural engineering software such as Tekla Structures, ETABS, Tedds, or Mathcad.
+- Deep familiarity with precast standards such as the PCI Design Handbook, ACI 318, Eurocode 2 (EN 1992-1-1), and relevant local precast guidelines.
+- Strong comprehension of crane rigging mechanics, dynamic amplification factors during transport, and temporary bracing requirements.
+Preferred Qualifications:
+- Hands-on experience developing custom Tekla components or parametric Grasshopper/Revit scripts for precast automation.
+- Familiarity with cast-in-place and precast hybrid structural framing systems.
+- Experience with modular volumetric steel/concrete pod design.
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 5
+Responsibilities:
+- Conduct structural capacity audits, condition assessments, and forensic investigations for aging, fire-damaged, or seismically vulnerable structures.
+- Interpret Non-Destructive Testing (NDT) data including rebound hammer, ultrasonic pulse velocity (UPV), core compression tests, and cover meter scans.
+- Perform advanced non-linear static (pushover) and dynamic time-history analyses to determine collapse mechanisms and seismic demand/capacity ratios.
+- Design structural strengthening and seismic retrofit interventions utilizing carbon fiber-reinforced polymers (CFRP), steel jacketing, concrete sectional enlargement, and supplemental damping systems.
+- Prepare comprehensive structural forensic evaluation reports, retrofit calculation notes, technical specifications, and repair BOQs.
+- Perform soil-structure interaction and differential settlement evaluations for foundations exhibiting distress.
+Minimum Qualifications:
+- Master’s or Bachelor’s degree in Structural Engineering.
+- 6+ years of experience in structural forensics, seismic evaluation, and repair/rehabilitation design.
+- Proficiency in non-linear analysis software such as PERFORM-3D, SeismoStruct, SAP2000, or DIANA FEA.
+- Expert knowledge of evaluation and repair codes including ASCE 41, FEMA P-58, ACI 562 (Concrete Repair Code), and ACI 440 (FRP Strengthening).
+- Strong understanding of concrete degradation mechanisms and structural cracking typologies.
+Preferred Qualifications:
+- Proven experience designing base isolation systems (lead-rubber bearings, friction pendulum bearings) or tuned mass dampers.
+- Active participation in structural forensic societies or published structural failure investigation studies.
+- Experience on-site supervising carbon fiber wrapping and epoxy pressure injection repairs.
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 6
+Responsibilities:
+- Perform structural analysis, modeling, and detailed design for long-span structural steel buildings, sports stadia, airport terminals, and exhibition halls.
+- Design spatial steel trusses, space frames, cable-stayed roof systems, and tension membrane support structures.
+- Evaluate global stability, second-order ($P-\Delta$) effects, member buckling, and progressive collapse resistance under extreme gravity, wind, and thermal load cases.
+- Perform complex bolted and welded steel connection design for heavy trusses, node joints, pin connections, and base assemblies.
+- Collaborate with architects, façade consultants, and general contractors to coordinate erection sequences and constructability constraints.
+- Review steel fabrication shop drawings, welding procedure specifications (WPS), and erection method statements.
+Minimum Qualifications:
+- Bachelor's or Master's degree in Civil or Structural Engineering.
+- 4+ years of experience in structural steel design with emphasis on long-span or complex architectural geometries.
+- Proficiency in finite element analysis software such as SAP2000, STAAD.Pro, SCIA Engineer, or RSTAB/RFEM.
+- Strong knowledge of steel design codes including AISC 360, AISC 341, Eurocode 3 (EN 1993), IS 800, and ASCE 7.
+- Working knowledge of 3D modeling and connection design tools such as IDEA StatiCa, RAM Connection, or Tekla Structures.
+- Strong fundamentals in structural dynamics, aeroelastic stability checks, and connection mechanics.
+Preferred Qualifications:
+- Experience with computational design and parametric modeling using Rhino, Grasshopper, or Dynamo.
+- Knowledge of tension structure design software such as FormFinder or Easy.
+- Experience with temporary works engineering, crane lifting plans, and erection staging for long-span roofs.
+
+--------------------------------------------------------------------------------------------------------------------------------
+Job Description 7
+Responsibilities:
+- Lead the structural design and analysis of deep foundation systems, earth retaining structures, and underground basement facilities.
+- Perform soil-structure interaction (SSI) modeling for high-rise mat foundations, piled rafts, diaphragm walls (slurry walls), and secant/tangent pile walls.
+- Design permanent and temporary excavation support systems including ground anchors, tie-backs, strut-waler systems, and soil nail walls.
+- Calculate soil lateral earth pressures, hydrostatic uplift forces, settlement profiles, and heave under varied groundwater regimes.
+- Coordinate with geotechnical specialists to interpret geotechnical investigation reports, borehole logs, and pressuremeter test data.
+- Prepare technical design calculation packages, instrumentation monitoring plans, and excavation sequence drawings.
+Minimum Qualifications:
+- Master’s or Bachelor’s degree in Geotechnical/Structural Engineering.
+- 5+ years of design experience in deep basements, retaining walls, and heavy foundation systems.
+- High proficiency in geotechnical and structural software such as PLAXIS 2D/3D, GeoStudio (SLOPE/W, SEEP/W), WALLAP, SAFE, and SAP2000.
+- In-depth understanding of codes such as ACI 318, Eurocode 7 (EN 1997), FHWA deep foundation manuals, CIRIA C760, and BS 8004.
+- Strong understanding of geotechnical-structural interface mechanisms, consolidation settlement, and lateral soil-pile response ($p-y$ curves).
+Preferred Qualifications:
+- Experience with seismic soil-structure interaction and liquefaction mitigation design.
+- Hands-on experience interpreting geotechnical instrumentation data (inclinometers, piezometers, settlement markers).
+- Familiarity with marine quay wall, cofferdam, or cut-and-cover tunnel box design.
+
+--------------------------------------------------------------------------------------------------------------------------------
+Job Description 8
+Responsibilities:
+- Perform structural engineering, finite element analysis, and detailing for building façade systems, curtain walls, skylights, and bespoke architectural envelopes.
+- Design structural aluminum extrusions, stainless steel fittings, cable nets, point-supported glass (spider fittings), and unitized curtain wall mullions/transoms.
+- Calculate wind suction/pressure distributions, thermal expansion movements, seismic building inter-story drift accommodation, and dead/live load deflections.
+- Perform structural glass stress checks and post-breakage capacity assessments for laminated, tempered, and insulated glass units (IGUs).
+- Design anchor brackets, embedment channels, and structural fastenings connecting façade assemblies to the main concrete/steel building frame.
+- Review façade fabrication shop drawings, thermal/condensation analysis reports, and witness visual/structural performance mock-up (PMU) testing in accredited laboratories.
+Minimum Qualifications:
+- Bachelor’s degree in Civil, Structural, or Façade Engineering.
+- 3–6 years of experience in structural design of building envelopes and curtain wall systems.
+- Proficiency in structural and finite element analysis software such as SJ MEPLA, Strand7, RFEM/RSTAB, SAP2000, or Mathcad.
+- Deep familiarity with façade design standards including ASTM E1300, AAMA standards, CWCT guidelines, ASCE 7, and Eurocode 9 (EN 1999) / Eurocode 11 (Structural Glass).
+- Solid grasp of structural glass mechanics, polymer interlayer shear transfer behavior, and aluminum alloy limit-state design.
+Preferred Qualifications:
+- Experience with complex parametric envelope design using Rhino, Grasshopper, and Revit.
+- Knowledge of blast-resistant glazing design according to GSA/DOD criteria.
+- Experience with façade dynamic seismic drift mock-up testing and wind tunnel pressure-tap data mapping.
+
+--------------------------------------------------------------------------------------------------------------------------------
+Job Description 9
+Responsibilities:
+- Perform structural modeling, design, and engineering calculations for mass timber and heavy timber buildings (commercial, institutional, and multi-family residential).
+- Design structural elements utilizing Cross-Laminated Timber (CLT), Glued-Laminated Timber (Glulam), Laminated Veneer Lumber (LVL), and nail-laminated timber (NLT).
+- Engineer proprietary and custom timber connection systems, including self-tapping screws, glued-in steel rods, concealed steel plates, and shear connectors.
+- Model hybrid structural framing systems combining mass timber with reinforced concrete cores and structural steel transfer trusses.
+- Calculate timber fire resistance ratings, char rates, and structural capacity under standard fire exposure conditions.
+- Perform floor vibration analysis and serviceability checks to meet human comfort thresholds for long-span timber floor systems.
+Minimum Qualifications:
+- Bachelor’s or Master’s degree in Civil or Structural Engineering.
+- 3+ years of dedicated structural design experience with heavy timber or mass timber systems.
+- Proficiency in structural engineering tools such as Dlubal RFEM, Timber-Pro, ETABS, SAP2000, or WoodWorks.
+- Strong knowledge of timber design codes including the NDS (National Design Specification for Wood Construction), Eurocode 5 (EN 1995), CSA O86, and IBC mass timber provisions.
+- Strong understanding of orthotropic wood material properties, moisture-induced dimensional variations, and structural timber acoustics/vibrations.
+Preferred Qualifications:
+- Experience with Design for Manufacturing and Assembly (DfMA) for prefabricated mass timber components.
+- Familiarity with carbon accounting and Life Cycle Assessment (LCA) tools for mass timber structures.
+- Experience coordinating mass timber shop models in Cadwork, Dietrich's, or Revit Structure.
+
+--------------------------------------------------------------------------------------------------------------------------------
+Job Description 10
+Responsibilities:
+- Conduct comprehensive structural analysis, dynamic modeling, and detailed engineering for offshore and marine structures (fixed jackets, offshore substations, jetties, wharves, and topsides).
+- Perform in-place static and dynamic analysis, storm wave/current loading evaluations, and extreme hydrodynamic hydrodynamic diffraction checks.
+- Execute structural modeling for temporary and operational phases including loadout, sea-transportation motion, lifting, launch/upending, and on-bottom pile drivability.
+- Perform high-cycle spectral fatigue analysis and deterministic fatigue assessments for welded tubular joints and structural connections.
+- Design tubular joints and complex nodes in compliance with punching shear stress checks and joint-can reinforcement requirements.
+- Collaborate with naval architects, geotechnical engineers, and fabrication yards to ensure constructability and transport stability.
+Minimum Qualifications:
+- Bachelor’s or Master’s degree in Ocean, Marine, Civil, or Structural Engineering.
+- 4+ years of structural design experience in offshore energy, offshore wind substations, or port/marine terminal infrastructure.
+- Hands-on expertise with offshore structural analysis software such as SACS, SESAM (Genie), Bentley MOSES, or USFOS.
+- Expert knowledge of offshore and marine design codes including API RP 2A-WSD/LRFD, DNV-ST-0126, DNV-ST-N001, ISO 19902, and BS 6349 (Maritime Structures).
+- Strong comprehension of environmental wave mechanics (Airy, Stokes, Stream function), Morison's equation, and structural dynamics.
+Preferred Qualifications:
+- Experience in structural design of bottom-fixed offshore wind turbine foundations (monopiles, jackets, tripods).
+- Familiarity with non-linear pushover and ship-impact boat collision structural analysis.
+- Experience with offshore fabrication yard support, weigh-in operations, and offshore installation supervision.
+
+--------------------------------------------------------------------------------------------------------------------------------
+Job Description 11
+Responsibilities:
+- Perform 3D finite element analysis and structural design for post-tensioned (PT) concrete building systems, including bonded and unbonded post-tensioned flat plates, banded beams, and transfer girders.
+- Calculate initial and long-term prestress losses (elastic shortening, creep, shrinkage, steel relaxation, and friction/wobble effects).
+- Perform detailed serviceability checks including cracked section analysis, punching shear capacity evaluations at column-slab junctions, and long-term deflection control.
+- Design post-tensioning anchorages, bursting reinforcement, pocket formers, and tendon profile geometry (parabolic, harped, and cantilever).
+- Coordinate tendon layouts with MEP openings, core walls, slab depressions, and edge form details to eliminate physical routing clashes.
+- Review and approve post-tensioning shop drawings, elongation calculation sheets, and stressing logs submitted by PT specialist contractors.
+Minimum Qualifications:
+- Bachelor’s or Master’s degree in Civil or Structural Engineering.
+- 4+ years of focused structural design experience in post-tensioned and prestressed concrete buildings.
+- High proficiency in post-tensioning design software such as RAM Concept, ADAPT-Builder, SAFE, or RAPT.
+- Strong knowledge of building design codes and PT standards including ACI 318, PTI (Post-Tensioning Institute) DC10.5, Eurocode 2 (EN 1992-1-1), and IS 1343.
+- Solid understanding of load balancing methods, equivalent frame methods, and hyperstatic (secondary) moment calculations.
+- Experience with AutoCAD and Revit Structure for PT tendon profiling and rebar detailing.
+Preferred Qualifications:
+- Experience in design of heavy post-tensioned transfer plates and deep transfer girders in high-rise towers.
+- On-site experience witnessing tendon stressing, gauge calibration, elongation measurement, and duct grouting operations.
+- Professional Engineer (PE) or Structural Engineer (SE) license.
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 12
+Responsibilities:
+- Execute structural analysis, blast modeling, and structural hardening design for high-consequence facilities, government complexes, data centers, and defense installations.
+- Perform single-degree-of-freedom (SDOF) and multi-degree-of-freedom (MDOF) dynamic response analyses under external blast overpressure and impulse loads.
+- Evaluate structural components under high-strain-rate material behavior, dynamic increase factors (DIF), and ductility/rotational limits.
+- Design reinforced concrete blast walls, hardened structural steel frames, blast-resistant door/window connections, and anti-ram physical vehicle barriers.
+- Conduct progressive collapse vulnerability assessments using alternate load path methods (ALPM) following sudden column loss scenarios.
+- Coordinate with security risk consultants, physical blast threat modelers, and architectural specialists to integrate CPTED (Crime Prevention Through Environmental Design) principles.
+Minimum Qualifications:
+- Master’s or Bachelor’s degree in Structural Engineering.
+- 5+ years of experience in protective design, blast-resistant engineering, and physical security structural hardening.
+- Proficiency in advanced dynamic/blast analysis tools such as LS-DYNA, ABAQUS, SBEDS, WinBLAST, or SAP2000.
+- Deep familiarity with protective design criteria including UFC 4-010-01 (DoD Minimum Antiterrorism Standards), UFC 3-340-02 (Structures to Resist the Effects of Accidental Explosions), ASCE 59, and GSA Progressive Collapse Guidelines.
+- Strong foundation in non-linear dynamic mechanics, plastic hinge development, and high-energy structural absorption.
+Preferred Qualifications:
+- Experience performing explicit non-linear finite element blast-structure interaction simulations in LS-DYNA.
+- Active security clearance or prior project experience on embassy and critical national infrastructure projects.
+- Knowledge of ballistic impact mitigation and forced entry structural design criteria (ASTM F3038 / DOS SD-STD-01.01).
+
+--------------------------------------------------------------------------------------------------------------------------------
+Job Description 13
+Responsibilities:
+- Perform structural design, modeling, and detailing for water and wastewater treatment structures, environmental holding tanks, reservoirs, and pump stations.
+- Design liquid-containing reinforced concrete structures (circular prestressed tanks, rectangular aeration basins, clarifiers, and digestion chambers).
+- Execute severe environmental serviceability limit state calculations, including crack width limitation control, direct tension stress checks, and thermal shrinkage cracking minimization.
+- Perform structural buoyancy and hydrostatic uplift checks under fluctuating groundwater levels, specifying uplift anchors and ballast slabs.
+- Design watertight construction joints, expansion joints, PVC/hydrophilic waterstops, and chemical-resistant concrete cover schemes.
+- Coordinate with process, mechanical piping, and environmental engineering teams for equipment anchorage, pipe thrust blocks, and dynamic pump loads.
+Minimum Qualifications:
+- Bachelor’s or Master’s degree in Civil/Structural Engineering.
+- 3–7 years of structural design experience in environmental, water/wastewater, or heavy civil treatment facilities.
+- Proficiency in structural analysis programs such as STAAD.Pro, ETABS, SAFE, or Robot Structural Analysis.
+- In-depth understanding of water-retaining structural codes including ACI 350 / ACI 350.3 (Seismic Design of Liquid-Containing Concrete Structures), Eurocode 2 Part 3 (EN 1992-3), BS 8007, and IS 3370.
+- Strong understanding of concrete durability in aggressive chemical/sulfate environments and corrosion prevention technologies.
+Preferred Qualifications:
+- Experience designing wire-wound circular prestressed concrete water tanks according to AWWA D110.
+- Familiarity with seismic hydrodynamic convective (sloshing) and impulsive fluid-structure interaction analysis.
+- Experience with 3D BIM coordination in Autodesk Revit or Bentley OpenBuildings.
+
+--------------------------------------------------------------------------------------------------------------------------------
+Job Description 14
+Responsibilities:
+- Perform structural analysis, modeling, and detailed engineering for light gauge steel framing (LGSF) / cold-formed steel (CFS) structures (modular housing, commercial framing, and curtain wall studs).
+- Design cold-formed C-sections, Z-purlins, hat channels, floor joists, and prefabricated shear wall panel assemblies.
+- Evaluate local buckling, distortional buckling, and global flexural-torsional buckling using the Direct Strength Method (DSM) and Effective Width Method.
+- Design self-drilling screw connections, bolted clip angles, hold-downs, strap bracing, and track-to-foundation anchorages.
+- Generate automated production panel drawings, cut lists, and machine-readable CNC framing files for roll-forming machinery.
+- Coordinate with architectural, MEP, and modular manufacturing teams to integrate utility chases, service cutouts, and acoustic/fire assemblies.
+Minimum Qualifications:
+- Bachelor’s degree in Civil or Structural Engineering.
+- 2–5 years of structural design experience focused on cold-formed steel (CFS) / light gauge steel construction.
+- High proficiency in CFS structural design software such as Vertex BD, CFS (RSG Software), Simpson Strong-Tie CFS Designer, FRAMECAD, or StrucSoft MWF.
+- Strong knowledge of cold-formed steel design specifications including AISI S100, AISI S240, AISI S400, Eurocode 3 Part 1-3 (EN 1993-1-3), and IS 801.
+- Solid understanding of lateral load-resisting systems using strap-braced panels and steel sheet sheathing.
+Preferred Qualifications:
+- Experience with industrialized modular volumetric pod assembly design.
+- Familiarity with BIM workflows and parametric modeling in Revit or SolidWorks.
+- Hands-on knowledge of cold-roll forming manufacturing tolerances and automated production machinery.
+
+--------------------------------------------------------------------------------------------------------------------------------
+Job Description 15
+Responsibilities:
+- Perform structural analysis, condition assessment, dynamic load evaluation, and detailed design for railway infrastructure, including rail bridges, track overpasses, passenger station canopies, and pedestrian footbridges.
+- Execute structural modeling under heavy freight axle loading, high-speed rail dynamic train-track-bridge interaction, and centrifugal forces.
+- Evaluate fatigue damage, cyclic stress ranges, and structural vibration limits for welded steel and composite rail superstructures.
+- Design railway substructure elements, crash protection collision walls, impact-resistant piers, and electrification mast (OHE) support foundations.
+- Perform track-structure interaction (TSI) and rail expansion analysis to calculate longitudinal rail stresses due to temperature and bridge deck flexure.
+- Coordinate with track alignment, signaling, geotechnical, and railway operations teams to schedule construction staging within rail possession windows.
+Minimum Qualifications:
+- Bachelor’s or Master’s degree in Civil/Structural Engineering with emphasis on Transportation/Railway Infrastructure.
+- 4–8 years of experience in structural design of railway bridges and heavy rail transit facilities.
+- Proficiency in bridge analysis tools such as MIDAS Civil, LUSAS Bridge, RM Bridge, or STAAD.Pro.
+- Deep familiarity with railway structural design standards including AREMA (Manual for Railway Engineering), UIC Codes (e.g., UIC 774-3 for TSI), Eurocode 1 Part 2 (EN 1991-2), and IRS (Indian Railway Standards).
+- Strong comprehension of bridge dynamic amplification factors, resonance risk at critical train speeds, and derailment load provisions.
+Preferred Qualifications:
+- Experience with high-speed rail (HSR) bridge design and dynamic bridge deck acceleration limit checks (<3.5 m/s²).
+- Familiarity with accelerated bridge construction (ABC) methods for rapid rail replacement (jack-in bridges, SPMT installations).
+- Knowledge of railway station BIM coordination and asset management systems.
+
+--------------------------------------------------------------------------------------------------------------------------------
+Job Description 16
+Responsibilities:
+- Perform finite element analysis and structural design for nuclear power plant containment structures, auxiliary buildings, and safety-related civil infrastructure.
+- Execute seismic Soil-Structure Interaction (SSI) modeling using substructure and direct finite element techniques under Safe Shutdown Earthquake (SSE) and Operating Basis Earthquake (OBE) conditions.
+- Design heavily reinforced and prestressed post-tensioned concrete containment vessels (PCCV) and biological radiation shielding walls.
+- Evaluate structural members under extreme design basis events including aircraft impact, missile impact (tornado/turbine missiles), pipe whip, and internal accidental overpressure.
+- Perform high-temperature thermal stress analysis and crack width control calculations to maintain airtight and leak-tight boundaries.
+- Coordinate with nuclear licensing bodies, safety review committees, and mechanical equipment qualification teams.
+Minimum Qualifications:
+- Master’s or PhD degree in Structural or Civil Engineering.
+- 5+ years of dedicated structural design experience in nuclear facilities or safety-critical power structures.
+- Proficiency in advanced finite element and SSI software such as SASSI, ANSYS, ABAQUS, SAP2000, or GT STRUDL.
+- Comprehensive knowledge of nuclear design codes including ACI 349 (Code Requirements for Nuclear Safety-Related Concrete Structures), ACI 359 / ASME Section III Division 2, AISC N690, ASCE 4-16 (Seismic Analysis of Safety-Related Nuclear Structures), and ASCE 43-05.
+- Deep expertise in non-linear dynamic time-history analysis, impulse loading, and concrete confinement under extreme shear and compression.
+Preferred Qualifications:
+- Experience with Small Modular Reactor (SMR) or Advanced Reactor structural layout design.
+- Direct experience in probabilistic seismic hazard analysis (PSHA) and structural fragility evaluation.
+- Active professional registration (PE / SE) and security clearance suitability.
+
+--------------------------------------------------------------------------------------------------------------------------------
+Job Description 17
+Responsibilities:
+- Perform structural analysis, modeling, and detailed engineering for telecommunication infrastructure, including self-supporting lattice towers, guyed masts, monopoles, and rooftop antenna mounts.
+- Analyze structures under severe wind loading, gust factors, radial ice accumulation, seismic events, and mount-specific antenna drag forces.
+- Execute tower structural capacity audits, existing member overstress checks, and reinforcement design (member split-pipe jacketing, diagonal bracing replacement, guy wire retensioning).
+- Design foundation systems for tall tower infrastructure, including pad-and-pier foundations, drilled micropiles, rock anchors, and guy anchor blocks.
+- Perform twist, sway, and tilt serviceability deflection checks to ensure operational beam alignment for high-frequency microwave and 5G cellular equipment.
+- Review climbing safety systems, fall-arrest ladders, platform grates, and feedline cable ladder attachments.
+Minimum Qualifications:
+- Bachelor’s degree in Civil or Structural Engineering.
+- 3–6 years of experience in structural design and evaluation of telecom towers and wireless structures.
+- Hands-on expertise in tower analysis software such as TnxTower (formerly RISA Tower), OpenTower, Tower Numerics, or STAAD.Pro.
+- In-depth understanding of telecommunications structural codes including ANSI/TIA-222 (Revision G/H), Eurocode 3 Part 3-1 (EN 1993-3-1), and ASCE 7.
+- Solid understanding of bolted joint slippage, cold-formed angle member buckling, and guy cable non-linear catenary behavior.
+Preferred Qualifications:
+- Experience coordinating drone-based LiDAR tower mapping and structural inspection audits.
+- Familiarity with rooftop ballast mount analysis and structural framing verification over existing building roofs.
+- Experience with foundation anchor rod pull-out and corrosion remediation techniques.
+
+--------------------------------------------------------------------------------------------------------------------------------
+Job Description 18
+Responsibilities:
+- Perform computational structural engineering, advanced wind engineering analysis, and high-rise dynamic optimization for supertall towers and complex architectural landmarks.
+- Coordinate with wind tunnel testing laboratories to interpret High-Frequency Force Balance (HFFB) and High-Frequency Pressure Integration (HFPI) data.
+- Model and optimize lateral drift, torsional velocity, across-wind vortex shedding, and aerodynamic mitigation geometries (building corner chamfers, setbacks, porosity).
+- Design and integrate dynamic damping systems including Tuned Mass Dampers (TMD), Tuned Liquid Column Dampers (TLCD), and distributed viscous dampers.
+- Evaluate building acceleration metrics against international human comfort criteria (ISO 10137, AIJ guidelines) for wind-induced floor vibrations.
+- Perform structural topology optimization and finite element member resizing to achieve target stiffness while reducing overall structural embodied carbon.
+Minimum Qualifications:
+- Master’s or PhD degree in Structural Engineering, Wind Engineering, or Structural Dynamics.
+- 5+ years of experience in structural design of supertall buildings (200m+) or slender dynamic structures.
+- High proficiency in ETABS, SAP2000, Strand7, and MATLAB / Python for custom dynamic data processing.
+- Comprehensive knowledge of wind loading and dynamics codes including ASCE 7 (Chapter 26–31), ISO 4354, Eurocode 1 Part 1-4 (EN 1991-1-4), and CTBUH Tall Building Guidelines.
+- Strong mathematical foundation in random vibration theory, modal analysis, spectral density functions, and aeroelastic instability phenomena (flutter, galloping).
+Preferred Qualifications:
+- Experience with automated structural optimization workflows using Grasshopper, Karamba3D, and Python scripting.
+- Published technical contributions in tall building lateral systems (mega-columns, outriggers, diagrids).
+- Professional Engineer (PE) or Chartered Structural Engineer (MIStructE) credential.
+
+--------------------------------------------------------------------------------------------------------------------------------
+Job Description 19
+Responsibilities:
+- Perform structural analysis, modeling, and detailed design for modular volumetric building units and offsite prefabricated building structures (steel-chassis and hybrid concrete-timber pods).
+- Design multi-story stacking connections, inter-module corner-block connectors, horizontal tying mechanisms, and foundation anchorage interfaces.
+- Execute structural checks for temporary loading regimes encountered during factory demolding, bridge crane lifting, flatbed transport, and on-site crane hook lifting.
+- Perform global lateral stability analyses for high-stack modular buildings resisting wind and seismic lateral shear through integrated core walls or localized inter-unit moment frames.
+- Design cold-formed and structural hollow section (HSS) floor and ceiling chassis systems to meet stringent deflection and footfall vibration criteria.
+- Coordinate with manufacturing production engineers, MEP modular routing specialists, and factory QA/QC inspectors to optimize Design for Manufacturing and Assembly (DfMA).
+Minimum Qualifications:
+- Bachelor’s or Master’s degree in Civil, Structural, or Architectural Engineering.
+- 3–7 years of experience in structural design with a dedicated focus on modular volumetric or offsite construction systems.
+- Proficiency in finite element modeling programs such as Tekla Structures, ETABS, SAP2000, Robot Structural Analysis, or IDEA StatiCa.
+- Strong knowledge of building design specifications including AISC 360, AISI S100, ACI 318, Eurocode 3, and national modular building guidelines.
+- Solid understanding of dimensional manufacturing tolerances, field connection clearances, and progressive collapse prevention in volumetric assemblies.
+Preferred Qualifications:
+- Experience with parametric modeling and automation plugins (Revit API, Dynamo, Grasshopper).
+- Knowledge of acoustic bridging and structural thermal break detailing in modular inter-unit connections.
+- Hands-on experience with modular module prototype testing (rack testing, lift test certification).
+
+--------------------------------------------------------------------------------------------------------------------------------
+Job Description 20
+Responsibilities:
+- Perform structural engineering, hydraulic force evaluation, and geotechnical-structural modeling for maritime and coastal structures (wharves, quays, dolphin mooring structures, breakwaters, and dry docks).
+- Calculate combined loading combinations comprising vessel berthing impact energies, vessel bollard mooring pull forces, wave slamming, tidal currents, and seismic liquefaction.
+- Design heavy reinforced concrete suspended deck platforms, tubular steel pile substructures, precast concrete coping beams, and combi-wall retaining systems (sheet piles with tubular king piles).
+- Design marine fender systems (cone fenders, arch fenders) and quick-release mooring hooks according to PIANC guidelines.
+- Perform Soil-Structure Interaction (SSI) analyses for piles subjected to large lateral cyclic berthing forces and ship impact actions using p-y non-linear subgrade models.
+- Specify marine-grade concrete durability measures, cathodic protection systems, epoxy-coated rebar, and sacrificial steel corrosion allowances.
+Minimum Qualifications:
+- Bachelor’s or Master’s degree in Civil, Structural, Coastal, or Ocean Engineering.
+- 4+ years of structural design experience in port terminals, marine works, or coastal heavy civil facilities.
+- Proficiency in structural and geotechnical design software such as Bentley SACS, SAP2000, STAAD.Pro, L-Pile, and PLAXIS 2D.
+- Deep familiarity with maritime structural design standards including BS 6349 (Maritime Structures), PIANC Guidelines, Eurocode 7, ASCE 61 (Seismic Design of Piers and Wharves), and USACE coastal manuals.
+- Strong knowledge of coastal environment deterioration mechanisms, chloride ingress modeling, and marine pile driving dynamics.
+Preferred Qualifications:
+- Experience in structural seismic design of pile-supported piers and container terminal crane beam foundations.
+- Familiarity with ship dynamics, mooring analysis software (e.g., OPTIMOOR), and hydrodynamic scour protection design.
+- Professional Engineer (PE) license.
+
+--------------------------------------------------------------------------------------------------------------------------------
+Job Description 21
+Responsibilities:
+- Perform structural analysis, design, and detailing for underground metro stations, cut-and-cover rail tunnels, and subterranean transit facilities.
+- Model multi-level underground concrete box structures under heavy overburden soil pressures, hydrostatic heads, and surface traffic surcharge loads.
+- Design temporary and permanent earth retention systems, including diaphragm walls, contiguous bored pile walls, steel strut-waler networks, and prestressed ground anchors.
+- Perform flotation, buoyancy stability, and base-heave calculations under extreme flood regimes, specifying tension micropiles and thickened base slabs.
+- Coordinate with geotechnical instrumentation, tunnel boring machine (TBM) interface teams, trackwork alignment engineers, and MEP building services.
+- Review construction stage sequences, excavation dewatering impacts, and ground settlement influence zones on adjacent existing structures.
+Minimum Qualifications:
+- Bachelor’s or Master’s degree in Civil or Structural Engineering.
+- 4–8 years of experience in structural design of underground transit infrastructure, cut-and-cover tunnels, or deep basements.
+- High proficiency in structural and geotechnical analysis programs such as STAAD.Pro, SAP2000, PLAXIS 2D/3D, and SAFE.
+- In-depth knowledge of underground structural design codes including ACI 318, Eurocode 2 (EN 1992), Eurocode 7 (EN 1997), BS 8007, and CIRIA guidelines.
+- Solid understanding of crack width limitation under severe water head exposure, thermal hydration stresses, and concrete durability in underground environments.
+Preferred Qualifications:
+- Experience with building damage assessment and settlement contour modeling due to deep excavations.
+- Familiarity with waterproof membrane design, construction joint detailing, and injection hose systems.
+- Knowledge of BIM workflows using Revit and Navisworks for underground clash resolution.
+
+--------------------------------------------------------------------------------------------------------------------------------
+Job Description 22
+Responsibilities:
+- Perform structural analysis, modeling, and detailed engineering for airport passenger terminal buildings, landside canopies, and air traffic control (ATC) towers.
+- Design long-span steel spatial roof trusses, tree-column support structures, architecturally exposed structural steel (AESS), and cable-stayed canopy structures.
+- Evaluate dynamic wind uplift, thermal expansion movements, aerodynamic drag forces, and second-order geometric non-linear effects across expansive roof footprints.
+- Design complex multi-planar welded and cast steel nodal connections, pin-jointed bearings, and expansion joints accommodating multi-directional building movements.
+- Coordinate with airport planners, baggage handling system (BHS) engineers, façade consultants, and security teams for structural MEP penetrations and floor loading.
+- Review fabricator structural steel shop drawings, connection calculation packages, and erection sequence methodologies.
+Minimum Qualifications:
+- Bachelor’s or Master’s degree in Civil or Structural Engineering.
+- 5+ years of experience in structural steel design with emphasis on airport terminals, stadiums, or public transit hubs.
+- High proficiency in finite element modeling software such as SAP2000, ETABS, STAAD.Pro, and IDEA StatiCa.
+- Strong knowledge of international steel and building standards including AISC 360, AISC 341, ASCE 7, Eurocode 3 (EN 1993), and IBC.
+- Strong comprehension of Architecturally Exposed Structural Steel (AESS) fabrication guidelines and non-linear large displacement analysis.
+Preferred Qualifications:
+- Experience with parametric modeling and computational optimization utilizing Rhino, Grasshopper, or Dynamo.
+- Knowledge of progressive collapse prevention and blast-resistant design for public terminal infrastructure.
+- Professional Engineer (PE) or Chartered Structural Engineer (MIStructE) license.
+
+--------------------------------------------------------------------------------------------------------------------------------
+Job Description 23
+Responsibilities:
+- Perform finite element analysis, structural integrity assessments, and detailed engineering for heavy industrial crane support systems, crane runway girders, and gantry structures.
+- Calculate dynamic wheel load combinations, lateral surge forces, longitudinal tractive forces, and eccentric crane rail alignments under heavy overhead travelling (EOT) cranes.
+- Perform high-cycle fatigue life calculations and stress range evaluations for welded plate girders, stepped crane columns, and bracket connections.
+- Design crane rail fastening systems, rail clips, resilient rubber pads, surge trusses, and runway end stops.
+- Execute structural checks for crane runway deflections, horizontal drift limits, and rail gauge tolerance compliance to prevent crane derailment.
+- Coordinate with mechanical crane suppliers, plant layout designers, and site erection teams to verify crane load data sheets and operational clearances.
+Minimum Qualifications:
+- Bachelor’s degree in Civil or Structural Engineering.
+- 3–7 years of structural design experience in heavy industrial facilities, steel mills, manufacturing plants, or shipyards.
+- Proficiency in structural analysis tools such as STAAD.Pro, RAM Structural System, SAP2000, or RFEM.
+- Deep familiarity with industrial and crane design specifications including AISC Design Guide 7 (Industrial Buildings), AISE Technical Report No. 13, Eurocode 3 Part 6 (EN 1993-6), and ASCE 7.
+- Solid understanding of cyclic fatigue cracking mechanisms, residual welding stresses, and torsional warping in open steel sections.
+Preferred Qualifications:
+- Experience with crane runway dynamic deflection monitoring and laser alignment data analysis.
+- Familiarity with runway retrofitting and rail alignment correction on operational plant floors.
+- Proficiency in Tekla Structures or IDEA StatiCa for industrial steel connection detailing.
+
+--------------------------------------------------------------------------------------------------------------------------------
+Job Description 24
+Responsibilities:
+- Perform structural analysis, thermal stress modeling, and detailed engineering for solid waste management plants, incinerator bunker buildings, and energy-from-waste (EfW) facilities.
+- Design heavy reinforced concrete waste storage bunkers, tipping hall floors, ash pit structures, and boiler support steel frame structures.
+- Calculate dynamic impact loads from heavy waste grab cranes, differential thermal gradients from burning refuse, and high hydrostatic leachate pressures.
+- Design heavy concrete retaining walls and floor slabs with enhanced chemical resistance, abrasion resistance, and crack control measures against acidic leachate attacks.
+- Perform structural checks for boiler equipment support frames under high-temperature expansion, piping reactions, and seismic lateral demands.
+- Coordinate with process engineering, flue gas treatment specialists, and mechanical piping stress teams.
+Minimum Qualifications:
+- Bachelor’s or Master’s degree in Civil or Structural Engineering.
+- 4–8 years of experience in structural design of heavy industrial, power, or waste-to-energy facilities.
+- Proficiency in structural analysis programs such as STAAD.Pro, ETABS, SAFE, and SAP2000.
+- Strong knowledge of concrete and steel design codes including ACI 318, ACI 350, AISC 360, Eurocode 2, and Eurocode 3.
+- In-depth understanding of concrete durability in severe chemical exposure classes, sulfate resistance, and high-abrasion environments.
+Preferred Qualifications:
+- Experience designing heavy grab crane runway structures and impact-resistant bunker walls.
+- Familiarity with 3D multi-disciplinary model navigation in Navisworks or Revit Structure.
+- Knowledge of post-tensioned foundation mats under heavy furnace/boiler installations.
+
+--------------------------------------------------------------------------------------------------------------------------------
+Job Description 25
+Responsibilities:
+- Perform structural design, modeling, and detailed engineering for hyperscale data centers, mission-critical facilities, and high-density server halls.
+- Design reinforced concrete and structural steel framing systems tailored for heavy MEP equipment loads (chillers, backup generators, cooling towers, and UPS battery rooms).
+- Perform detailed floor vibration analysis and footfall-induced dynamic acceleration assessments to protect sensitive IT server racks and microelectronics.
+- Design specialized structural steel ceiling grillage grids, unistrut support systems, and drop-rod assemblies for overhead cable trays and containment ducts.
+- Formulate combined loading scenarios including heavy distributed equipment dead loads, thermal HVAC expansion forces, seismic bracing demands, and rooftop equipment wind forces.
+- Coordinate closely with mechanical, electrical, plumbing, and architectural teams in a collaborative 3D BIM environment.
+Minimum Qualifications:
+- Bachelor’s or Master’s degree in Civil or Structural Engineering.
+- 3–7 years of experience in structural design of commercial, industrial, or mission-critical data center facilities.
+- High proficiency in structural analysis tools such as ETABS, SAP2000, SAFE, and RAM Structural System.
+- Strong knowledge of building design standards including AISC 360, ACI 318, ASCE 7, and IBC.
+- In-depth understanding of floor vibration criteria according to AISC Design Guide 11 (Vibrations of Steel-Framed Structural Systems Due to Human Activity).
+Preferred Qualifications:
+- Experience designing seismically isolated raised floor systems and seismic equipment restraints.
+- Familiarity with rapid modular construction methods and precast concrete solutions for data center superstructures.
+- Strong proficiency in Autodesk Revit Structure for multi-disciplinary BIM clash coordination.
+
+--------------------------------------------------------------------------------------------------------------------------------
+Job Description 26
+Responsibilities:
+- Perform structural analysis, modeling, and detailed engineering for healthcare facilities, tertiary hospitals, and clinical medical centers.
+- Design heavy reinforced concrete bunkers and radiation shielding enclosures (linear accelerator vaults, cyberknife suites, and cyclotron facilities) incorporating high-density concrete and labyrinth wall layouts.
+- Perform floor vibration assessments and footfall-induced dynamic response modeling to satisfy strict vibration criteria (VC curves / NIST guidelines) for sensitive diagnostic imaging equipment (MRI, CT scanners, surgical microscopes).
+- Design specialized structural floor framing, ceiling equipment grid supports, and anchorage assemblies for heavy floor-mounted and ceiling-suspended medical systems.
+- Evaluate structural and non-structural seismic bracing systems to maintain continuous post-disaster operational functionality (Immediate Occupancy / Critical Facility performance levels).
+- Coordinate with medical equipment planners, acoustic consultants, MEP engineers, and architectural teams to integrate complex service penetrations and slab recesses.
+Minimum Qualifications:
+- Bachelor’s or Master’s degree in Civil or Structural Engineering.
+- 4–8 years of structural design experience with dedicated exposure to healthcare, hospital, or institutional projects.
+- Proficiency in finite element analysis and structural modeling tools such as ETABS, SAP2000, SAFE, and RAM Concept.
+- In-depth knowledge of building codes and healthcare guidelines including ACI 318, AISC 360, ASCE 7 (Chapter 13 non-structural components), IBC, and OSHPD / HCAI seismic design provisions.
+- Strong understanding of floor vibration criteria according to AISC Design Guide 11 and radiation shielding physics principles.
+Preferred Qualifications:
+- Experience designing base-isolated hospital superstructures using elastomeric or friction pendulum bearings.
+- Familiarity with BIM coordination workflows in Autodesk Revit Structure and Navisworks.
+- Professional Engineer (PE) or Structural Engineer (SE) license.
+
+--------------------------------------------------------------------------------------------------------------------------------
+Job Description 27
+Responsibilities:
+- Perform structural analysis, calculation modeling, and detailed engineering for bulk material storage and handling structures, including concrete silos, steel bins, bunkers, transfer towers, and overland conveyor galleries.
+- Calculate granular material pressures (symmetric and eccentric filling/discharge pressures, flow patterns, funnel flow, mass flow, and thermal ratcheting forces) in accordance with international bulk storage standards.
+- Design reinforced and post-tensioned concrete circular walls, ring beams, hoppers, cone bottoms, and column/skirt foundation systems.
+- Perform structural steel design for elevated transfer chutes, conveyor trusses, tripper floors, and vibrating screen support structures subjected to dynamic material impact.
+- Design dust-explosion venting panels, deflagration pressure-containment structures, and environmental wind/seismic lateral resisting frames.
+- Coordinate with mechanical bulk handling process engineers to obtain equipment operational weights, belt pull tensions, and transfer point dynamic load inputs.
+Minimum Qualifications:
+- Bachelor’s or Master’s degree in Civil or Structural Engineering.
+- 4–8 years of experience in structural design of heavy industrial, mining, cement, grain, or bulk material handling facilities.
+- High proficiency in structural analysis tools such as STAAD.Pro, SAP2000, and RFEM/RSTAB.
+- Comprehensive knowledge of silo and bin design standards including ACI 313 (Standard Practice for Design and Construction of Concrete Silos and Stacking Tubes), Eurocode 1 Part 4 (EN 1991-4: Silos and Tanks), DIN 1055-6, and AISC 360.
+- Strong comprehension of granular soil/material mechanics, friction angles, and eccentric discharge wall-buckling failure modes.
+Preferred Qualifications:
+- Experience with finite element continuum modeling of granular material-structure interaction.
+- Familiarity with dynamic fatigue analysis for conveyor support bents and vibrating equipment decks.
+- Knowledge of 3D modeling and structural detailing in Tekla Structures.
+
+--------------------------------------------------------------------------------------------------------------------------------
+Job Description 28
+Responsibilities:
+- Perform structural analysis, fatigue evaluation, and geotechnical-structural design for onshore wind turbine generator (WTG) foundations and hybrid concrete-steel wind tower structures.
+- Design shallow gravity base foundations (octagonal/circular spread footings), rock-anchored foundations, and deep piled raft systems subjected to high overturning moments and dynamic cyclic loads.
+- Evaluate rotational soil dynamic stiffness, foundation gapping/liftoff limits, differential settlement, and dynamic soil-structure interaction (SSI) under extreme gust and operational aerodynamic loads.
+- Execute structural high-cycle fatigue life calculations and crack width control checks for reinforced and post-tensioned concrete foundation elements over a 25- to 30-year design life.
+- Perform detailed design and finite element verification of embedded foundation components, including foundation anchor cages, embedded steel rings, post-tensioning high-strength anchor bolts, and grout interface beds.
+- Review geotechnical site investigation reports, seismic hazard assessments, dynamic soil testing (cross-hole/down-hole seismic data), and wind turbine manufacturer load data documents (LDDs).
+Minimum Qualifications:
+- Bachelor’s or Master’s degree in Civil, Structural, or Geotechnical Engineering.
+- 3–7 years of experience in structural and foundation design for renewable energy infrastructure, onshore wind farms, or power projects.
+- Proficiency in structural and finite element programs such as SAP2000, SAFE, ANSYS, STAAD.Pro, or PLAXIS 3D.
+- Solid knowledge of wind turbine structural design standards including IEC 61400-6 (Tower and Foundation Design Requirements), DNV-ST-0126, ACI 318, Eurocode 2 (EN 1992), and Eurocode 7 (EN 1997).
+- Deep understanding of structural concrete fatigue degradation mechanisms (Miner's rule) and cyclic soil degradation behavior.
+Preferred Qualifications:
+- Experience with dynamic wind turbine aeroelastic simulation outputs (e.g., FAST, Bladed load integration).
+- Familiarity with ultra-high-performance concrete (UHPC) and non-shrink high-strength grouting specifications.
+- Professional Engineer (PE) credential.
+
+--------------------------------------------------------------------------------------------------------------------------------
+Job Description 29
 Responsibilities:
 
-- Define silicon validation strategy, platform architectures, and test execution timelines for FPGA SoC platforms.
-- Lead hardware bring-up and physical layer validation for SerDes, PCIe Gen4/Gen5, Ethernet PCS/PMA, and DDR4/DDR5 interfaces.
-- Design embedded bare-metal validation suites for ARM Cortex-M and RISC-V processor-based systems.
-- Collaborate with ASIC design, IP, firmware, and board engineering teams to isolate silicon, firmware, and hardware issues.
-- Oversee synthesis, implementation, static timing constraints (SDC), and timing closure for large FPGA designs.
-- Mentor validation engineers and present technical progress to stakeholders.
-
+- Conduct structural condition assessments, vulnerability evaluations, and detailed structural restoration/strengthening design for historic, heritage, and existing unreinforced masonry (URM) structures.
+- Analyze load-bearing unreinforced brick, stone masonry, timber floor diaphragms, masonry arches, barrel vaults, and domes under gravity and lateral seismic actions.
+- Perform in-plane shear, out-of-plane flexural, and overturning stability evaluations for historic masonry walls.
+- Design reversible, heritage-compliant structural strengthening interventions such as stainless steel tie rods, concealed steel core frames, grouted helical anchors, timber floor diaphragm stiffening, and low-pressure breathable lime grout injection.
+- Interpret specialized historic material testing data, including in-situ flat-jack stress tests, masonry shear tests, mortar petrographic analysis, and micro-core samples.
+- Prepare technical structural conservation reports, structural monitoring specifications, repair details, and heritage authority approval dossiers.
 Minimum Qualifications:
-
-- Bachelor's or Master's degree in ECE, VLSI, Embedded Systems, or related field.
-- 10+ years of experience in FPGA design, silicon validation, and post-silicon bring-up.
-- Strong experience in Verilog, SystemVerilog, VHDL, Embedded C, and C++.
-- Experience validating SerDes, PCIe Gen4/Gen5, DDR4/LPDDR5, AXI, AHB, and APB interfaces.
-- Hands-on experience with Xilinx ChipScope, Synopsys Identify, oscilloscopes, logic analyzers, and protocol analyzers.
-- Experience with static timing analysis, synthesis, implementation, and timing closure.
-- Strong Python, Tcl, Perl scripting skills in Linux environments.
-
+- Bachelor’s or Master’s degree in Structural Engineering, Historic Preservation Engineering, or Civil Engineering.
+- 4–8 years of experience in structural evaluation, seismic retrofit, and conservation of existing masonry and timber heritage buildings.
+- Proficiency in structural analysis tools such as SAP2000, 3Muri, SeismoStruct, or DIANA FEA.
+- Deep familiarity with existing building and rehabilitation standards including ASCE 41 (Seismic Evaluation and Retrofit of Existing Buildings), IEBC (International Existing Building Code), Eurocode 8 Part 3 (EN 1998-3), and IS 13935.
+- Thorough knowledge of traditional construction materials, lime-based mortars, historic timber framing, and heritage conservation charters (e.g., Venice Charter, ICOMOS/ISCARSAH guidelines).
 Preferred Qualifications:
+- Experience with structural health monitoring (SHM) systems, crack motion telemetry, and tiltmeter instrumentation for fragile monuments.
+- Proven track record of successful submissions to heritage conservation boards or state historical preservation offices (SHPO).
+- Hands-on experience with textile-reinforced mortar (TRM) or fabric-reinforced cementitious matrix (FRCM) strengthening systems.
 
-- Experience with Secure Boot and FPGA security validation.
-- Knowledge of cryptographic co-processors and Physical Unclonable Functions (PUF).
-- Experience leading FPGA validation teams.
-- Strong project planning and stakeholder management skills.
+--------------------------------------------------------------------------------------------------------------------------------
+Job Description 30
+Responsibilities:
+- Perform structural modeling, dynamic analysis, and detailed engineering for signature pedestrian bridges, footbridges, and architectural link walkways (cable-stayed, suspension, arch, and stress-ribbon topologies).
+- Execute comprehensive human-induced dynamic footfall vibration analysis, assessing vertical and lateral bridge accelerations against pedestrian comfort criteria under synchronized walking and crowd-flow scenarios.
+- Model synchronous lateral excitation (pedestrian lock-in phenomenon / "Millennium Bridge" effect) and specify appropriate mitigation strategies.
+- Design and integrate dynamic vibration mitigation hardware, including vertical and horizontal Tuned Mass Dampers (TMDs) and viscous damping units.
+- Design architectural steel members, tension tie-rods, bridge stay cables, pin-jointed clevis brackets, expansion joints, and glass/mesh balustrade connection interfaces.
+- Prepare detailed 3D structural calculation packages, erection and tensioning staging sequences, and structural maintenance inspection manuals.
+Minimum Qualifications:
+- Bachelor’s or Master’s degree in Civil or Structural Engineering.
+- 4–8 years of structural engineering experience with emphasis on pedestrian bridges, cable structures, or slender footbridges.
+- Proficiency in finite element structural analysis software such as MIDAS Civil, CSI Bridge, SOFiSTiK, SAP2000, or LUSAS.
+- Strong knowledge of pedestrian bridge design standards including AASHTO Guide Specifications for the Design of Pedestrian Bridges, Eurocode 1 Part 2 (EN 1991-2), Sétra Technical Guide (Footbridges: Assessment of Vibrational Behaviour of Footbridges under Pedestrian Loading), and HiVoSS (Human Induced Vibrations of Steel Structures).
+- Strong foundation in structural dynamics, natural frequency derivation, modal mass calculation, and geometric non-linear cable mechanics.
+Preferred Qualifications:
+- Experience in computational bridge design and parametric form-finding using Rhino, Grasshopper, and Karamba3D.
+- Experience with stay-cable tensioning monitoring, ambient vibration testing (AVT), and modal parameter extraction in the field.
+- Professional Engineer (PE) or Chartered Structural Engineer license.
+
+--------------------------------------------------------------------------------------------------------------------------------
+Job Description 31
+Responsibilities:
+- Perform structural analysis, modeling, and detailed design for high-voltage electrical transmission towers, tubular steel poles, substation gantries, and transformer support structures.
+- Analyze lattice tower structures under severe conductor tension, broken-wire unbalanced loading, heavy wind/ice combinations, and dynamic galloping effects.
+- Perform structural optimization of angle member sizes, connection bolt configurations, diagonal bracing topologies, and cross-arm geometries to minimize steel weight.
+- Design transmission tower foundation systems, including undercut spread footings, augered cast-in-place (ACIP) piles, rock anchors, and steel grillage foundations resisting heavy uplift and overturning moments.
+- Conduct structural capacity assessments, line rating upgrades, and reinforcement design for existing transmission line towers accommodating heavier reconductoring cables.
+- Coordinate with electrical layout engineers, sag-tension line design specialists, and geotechnical survey teams.
+Minimum Qualifications:
+- Bachelor’s or Master’s degree in Civil or Structural Engineering.
+- 3–7 years of experience in structural design of transmission towers, distribution poles, or utility substation infrastructure.
+- High proficiency in specialized transmission line software such as PLS-TOWER, PLS-POLE, PLS-CADD, or STAAD.Pro.
+- In-depth understanding of utility structural design standards including ASCE 10 (Design of Latticed Steel Transmission Structures), ASCE 48 (Design of Steel Transmission Pole Structures), IEEE 691, IEC 60826, and EN 50341.
+- Strong knowledge of transmission tower failure modes, angle member compression limits, bolt bearing/shear capacities, and guy wire mechanics.
+Preferred Qualifications:
+- Experience with substation seismic qualification according to IEEE 693.
+- Familiarity with LiDAR survey data integration into PLS-CADD terrain models.
+- Professional Engineer (PE) license.
+
+--------------------------------------------------------------------------------------------------------------------------------
+Job Description 32
+Responsibilities:
+- Perform structural modeling, analysis, and detailed design for multi-story parking structures, precast parking garages, and subterranean parkades.
+- Design post-tensioned cast-in-place concrete flat plates, precast/prestressed double-tee floor beams, spandrels, columns, and shear walls.
+- Perform detailed durability and serviceability engineering for high chloride/de-icing salt exposure, including crack control, epoxy-coated/galvanized reinforcement, concrete mix additives, and waterproofing deck coating systems.
+- Design vehicular crash barriers, perimeter impact cable systems, exterior spandrel connection embeds, and expansion joints accommodating continuous thermal movements.
+- Calculate thermal expansion/contraction load effects on long-span garage floor diaphragms, specifying expansion joint locations and shear-transfer slide bearings.
+- Coordinate with architectural planners, accessibility consultants, and MEP drainage engineers to ensure minimum clearance heights, ramp slopes, and efficient storm drainage layouts.
+Minimum Qualifications:
+- Bachelor’s or Master’s degree in Civil or Structural Engineering.
+- 4–8 years of experience in structural design of parking structures, precast double-tee garages, or post-tensioned commercial buildings.
+- Proficiency in finite element analysis software such as RAM Concept, ADAPT-Floor Pro, ETABS, SAFE, or Tekla Structures.
+- Strong knowledge of building and parking design specifications including ACI 362.1R (Guide for the Design of Durable Parking Structures), ACI 318, PCI Design Handbook, IBC, and ASCE 7.
+- Solid understanding of concrete slab slope detailing for drainage, punching shear design, and unbonded post-tensioning construction procedures.
+Preferred Qualifications:
+- Experience with hybrid structural framing systems (cast-in-place core walls with precast double-tees).
+- Familiarity with structural condition assessment and concrete repair of existing deteriorated parking garages.
+- Professional Engineer (PE) or Structural Engineer (SE) credential.
+
+--------------------------------------------------------------------------------------------------------------------------------
+Job Description 33
+Responsibilities:
+Responsibilities:
+- Perform structural analysis, form-finding, and detailed engineering for lightweight aluminum space structures, geodesic domes, glazed barrel vaults, and wide-span architectural atrium canopies.
+- Model spatial reticulated shells, single-layer and double-layer space grids, and extruded structural aluminum framing systems under wind, snow, and seismic forces.
+- Perform geometric non-linear snap-through buckling analysis, member lateral-torsional buckling checks, and global structural stability evaluations for slender shell geometries.
+- Design proprietary and custom aluminum connection nodes, extruded connector hubs, stainless steel pin fasteners, and slotted thermal slip joints.
+- Evaluate structural thermal movements and differential expansion between aluminum superstructures and supporting reinforced concrete/steel base frames.
+- Coordinate with architectural façade designers, cladding fabricators, and installation teams to ensure water-tight integration, gasket sealing, and constructability.
+Minimum Qualifications:
+- Bachelor’s or Master’s degree in Civil, Structural, or Architectural Engineering.
+- 3–6 years of experience in structural design of space frames, aluminum structures, or lightweight spatial envelopes.
+- Proficiency in finite element structural analysis programs such as RFEM/RSTAB, SAP2000, SCIA Engineer, or Strand7.
+- Strong knowledge of aluminum and spatial structure design codes including the Aluminum Design Manual (ADM / AA-ADM), Eurocode 9 (EN 1999: Design of Aluminium Structures), ASCE 7, and IASS guidelines for spatial structures.
+- Strong understanding of extruded aluminum alloy temper designations (e.g., 6061-T6, 6082-T6), welded heat-affected zones (HAZ), and non-linear shell stability.
+Preferred Qualifications:
+- Experience with computational form-finding and parametric optimization using Rhino, Grasshopper, and Karamba3D.
+- Familiarity with ETFE membrane cushion support structure engineering.
+- Experience reviewing manufacturing extrusion tolerances and structural testing of custom node joints.
+
+--------------------------------------------------------------------------------------------------------------------------------
+Job Description 34
+Responsibilities:
+- Perform structural analysis, rock mechanics modeling, and detailed engineering for underground tunnel linings, access shafts, and hydroelectric penstocks/caverns.
+- Design initial and temporary ground support systems including fiber-reinforced shotcrete, rock bolts, lattice girders, steel sets, and spiling forepoles (NATM / SEM tunneling).
+- Design permanent cast-in-place concrete tunnel linings and precast segmental lining rings for Tunnel Boring Machine (TBM) applications.
+- Calculate ground overburden pressures, squeezing ground deformations, swelling pressures, fault zone displacements, and asymmetric hydrostatic ground water heads.
+- Design deep vertical shafts, launch/reception chambers, and junction break-in/break-out openings, specifying reinforced concrete collar beams and secant pile thrust rings.
+- Coordinate with geotechnical engineering, engineering geology, hydrogeological modeling, and TBM operations teams.
+Minimum Qualifications:
+- Bachelor’s or Master’s degree in Mining, Geotechnical, Civil, or Structural Engineering.
+- 4–8 years of experience in structural design of tunnel linings, deep shafts, or underground cavern structures.
+- High proficiency in geotechnical and structural analysis programs such as PLAXIS 2D/Tunnel, FLAC2D/3D, Rocscience (RS2, RS3, Unwedge), and STAAD.Pro.
+- Deep familiarity with underground structural codes and tunneling guidelines including ACI 506.2 (Shotcrete Specification), Eurocode 7, FHWA Tunnel Design Manual, ITA/AITES guidelines, and BS 6164.
+- Strong foundation in rock mass classification systems (RMR, Q-system, GSI), ground-support interaction curves, and segment gasket sealing pressures.
+Preferred Qualifications:
+- Experience with segmental ring non-linear joint modeling (segment-to-segment contact and packer behavior).
+- Familiarity with seismic wave propagation and ovaling deformation analysis of circular tunnel cross-sections.
+- Professional Engineer (PE) or Chartered Engineer (CEng) registration.
+
+--------------------------------------------------------------------------------------------------------------------------------
+Job Description 35
+Responsibilities:
+- Perform structural analysis, engineering calculations, and detailed drafting for temporary works, construction staging, and construction support structures.
+- Design heavy shoring systems, falsework towers, concrete formwork systems, wall forming forms, bridge launching gantries, and self-climbing core wall forms.
+- Design temporary foundations and tie-back anchorages for heavy construction equipment, including tower crane bases, crawler crane outrigger pads, and hoist mast supports.
+- Perform structural checks on partially completed permanent structures during sequential erection stages, post-tensioning phases, and heavy precast module placement.
+- Design temporary earth retention systems, trench boxes, sheet pile cofferdams, and temporary bridging/work platforms for site haulage access.
+- Review contractor rigging plans, spreader bar assemblies, lifting lugs, and multi-crane tandem pick methodologies for safety compliance.
+Minimum Qualifications:
+- Bachelor’s degree in Civil, Structural, or Construction Engineering.
+- 3–7 years of experience in temporary works design, construction engineering, or contractor site technical support.
+- Proficiency in structural analysis software such as STAAD.Pro, SAP2000, Enercalc, Tedds, or RISA-3D.
+- Strong knowledge of temporary works and construction safety standards including ASCE 37 (Design Loads on Structures During Construction), OSHA 1926 Subpart Q, BS 5975 (Code of Practice for Temporary Works), AISC 360, and ACI 347 (Guide to Formwork for Concrete).
+- Strong understanding of construction loads, wind loads on partially clad frames, dynamic impact during concrete pouring, and soil bearing capacity under heavy crane mats.
+Preferred Qualifications:
+- Experience with accelerated bridge construction (ABC) temporary sliding and jacking systems.
+- Proficiency in 3D BIM coordination and staging visualization in Tekla Structures or AutoCAD.
+- Professional Engineer (PE) license.
+
+--------------------------------------------------------------------------------------------------------------------------------
+Job Description 36
+Responsibilities:
+- Perform structural analysis, modeling, and detailed engineering for ground-mounted, rooftop, and floating solar photovoltaic (PV) mounting structures and tracker systems.
+- Execute wind engineering assessments including aerodynamic flutter, galloping, static wind pressure, and wind-tunnel aeroelastic coefficient mapping on single-axis solar trackers.
+- Design cold-formed steel purlins, torque tubes, structural steel posts, drive mechanisms, and aluminum module clamping systems.
+- Design tracker foundation systems including driven steel H-piles, ground screws, helical piles, and concrete ballast blocks under uplift, lateral shear, and axial forces.
+- Perform non-linear static and dynamic finite element modeling of structural frames subjected to combined thermal variations, snow accumulation, seismic forces, and wind stow angles.
+- Coordinate with geotechnical engineering, solar resource assessment, and field installation teams to review pile pull-out/lateral load test data.
+Minimum Qualifications:
+- Bachelor’s degree in Civil, Structural, or Mechanical Engineering.
+- 3–6 years of experience in structural design of solar PV mounting structures, solar trackers, or light-gauge structural framing.
+- Proficiency in structural analysis software such as SAP2000, STAAD.Pro, ANSYS, RISA-3D, or RFEM.
+- Strong knowledge of solar and building design standards including ASCE 7, SEAOC PV2 (Structural Seismic and Wind Design Manual for Rooftop Solar Photovoltaic Arrays), AISI S100, AISC 360, and Eurocode 3 / Eurocode 9.
+- Solid understanding of aeroelastic instability phenomena, drive torque transmission mechanics, and corrosion protection (hot-dip galvanization, pre-galvanized coatings).
+Preferred Qualifications:
+- Experience with floating solar PV (FPV) pontoon mooring and anchoring analysis using hydrodynamic tools.
+- Familiarity with automated Python or MATLAB parametric script generation for large-scale solar utility farm structural calculations.
+- Professional Engineer (PE) credential.
+
+--------------------------------------------------------------------------------------------------------------------------------
+Job Description 37
+Responsibilities:
+- Lead the structural condition inspection, load rating evaluation, and rehabilitation/widening design for existing highway and railway bridge inventory.
+- Perform analytical load ratings for complex bridges (steel trusses, post-tensioned segmental concrete boxes, multi-girder composite spans) using LRFR (Load and Resistance Factor Rating) and LFR methods.
+- Design structural repair and strengthening interventions including external post-tensioning, carbon fiber-reinforced polymer (CFRP) composite wraps, steel cover plating, and bearing replacements.
+- Perform non-destructive evaluation (NDE) data correlation, fatigue crack propagation modeling, and remaining fatigue life estimation for welded bridge details.
+- Develop temporary bridge jacking procedures, bearing replacement sequence schemes, and staged traffic management structural details.
+- Prepare bridge inspection condition reports, load rating summary sheets, rehabilitation calculation packages, and bridge preservation specifications.
+Minimum Qualifications:
+- Bachelor’s or Master’s degree in Civil or Structural Engineering with specialization in Bridge Engineering.
+- 5+ years of experience in bridge structural design, load rating, and bridge rehabilitation.
+- High proficiency in bridge analysis tools such as AASHTOware Bridge Rating (BrR), MIDAS Civil, CSI Bridge, or LUSAS.
+- Comprehensive knowledge of bridge inspection and rating standards including AASHTO Manual for Bridge Evaluation (MBE), AASHTO LRFD Bridge Design Specifications, FHWA Bridge Inspector's Reference Manual (BIRM), and IRC SP:35 / IRC SP:40.
+- Deep comprehension of structural defect typologies (rebar corrosion, prestress strand deterioration, alkali-silica reaction, steel fatigue cracking).
+Preferred Qualifications:
+- Certified Bridge Inspection Team Leader (NHI / FHWA Course 130055 certification or equivalent).
+- Experience with live-load field testing, strain gauge instrumentation data analysis, and structural health monitoring (SHM).
+- Professional Engineer (PE) or Structural Engineer (SE) license.
+
+--------------------------------------------------------------------------------------------------------------------------------
+Job Description 38
+Responsibilities:
+- Perform structural fire engineering, thermal-mechanical finite element modeling, and performance-based structural fire safety design for complex buildings and infrastructure.
+- Model realistic fire curves (parametric fires, localized fire plumes, zone models) and heat transfer regimes through structural concrete, steel, composite, and mass timber elements.
+- Evaluate temperature-dependent non-linear material degradation, reduction in mechanical yield strength, thermal expansion restraint forces, and thermal bowing stresses.
+- Determine the fire resistance ratings and specify structural passive fire protection (PFP) systems including intumescent coatings, cementitious sprays, and board encasement.
+- Execute finite element structural response modeling under full burnout fire scenarios to prevent progressive collapse and ensure structural compartmentalization integrity.
+- Coordinate with fire safety engineers, architectural egress planners, and building authorities to defend performance-based fire engineering submissions.
+Minimum Qualifications:
+- Master’s or PhD degree in Structural Engineering, Fire Safety Engineering, or Civil Engineering.
+- 4–8 years of experience in structural fire safety engineering or thermal-structural finite element modeling.
+- High proficiency in advanced thermal and structural finite element software such as SAFIR, ANSYS, ABAQUS, LS-DYNA, or Vulcan.
+- Deep understanding of structural fire standards including Eurocode 1 Part 1-2 (EN 1991-1-2: Actions on structures exposed to fire), Eurocode 2/3/4/5 fire parts, ASCE/SEI 7 / SFPE Engineering Guide to Performance-Based Fire Protection, and ACI 216.1.
+- Strong knowledge of heat conduction, convection, radiation boundary interactions, and thermo-plasticity in structural systems.
+Preferred Qualifications:
+- Experience coupling computational fluid dynamics (CFD) fire models (e.g., FDS - Fire Dynamics Simulator) with structural finite element models.
+- Active involvement in professional technical committees (SFPE, ASCE Fire Protection Committee, or fib).
+- Professional Engineer (PE) or Chartered Engineer (CEng) registration.
+
+--------------------------------------------------------------------------------------------------------------------------------
+Job Description 39
+Responsibilities:
+- Perform finite element analysis, dynamic structural modeling, and detailed engineering for heavy industrial containment structures, chimneys, stacks, and cooling towers.
+- Design tall reinforced concrete industrial chimneys and natural draft hyperbola cooling towers subjected to high wind suction, aerodynamic resonance, and thermal gradients.
+- Design self-supporting and guyed industrial steel exhaust stacks, flare booms, and flue gas ducting systems in compliance with vibration and vortex shedding standards.
+- Evaluate aerodynamic across-wind vortex excitation, ovaling buckling modes, and design aerodynamic helical strakes or tuned mass damping devices.
+- Design heavy foundation systems, including annular ring foundations, deep piled circular caps, and high-temperature refractory lining support brackets.
+- Coordinate with process engineering, flue gas treatment specialists, and mechanical piping stress teams.
+Minimum Qualifications:
+- Bachelor’s or Master’s degree in Civil or Structural Engineering.
+- 4–8 years of experience in structural design of tall industrial structures, cooling towers, chimneys, or stacks.
+- High proficiency in structural analysis tools such as STAAD.Pro, SAP2000, ANSYS, or RFEM.
+- Solid knowledge of industrial chimney and cooling tower standards including ACI 307 (Design and Construction of Reinforced Concrete Chimneys), ASME STS-1 (Steel Stacks), VGB-R 610 (Cooling Towers), CICIND Model Codes, and BS 4076.
+- Strong understanding of aeroelastic stability, shell buckling under wind depression, and high-temperature thermal stresses.
+Preferred Qualifications:
+- Experience with flue gas acid condensation corrosion mitigation and refractory brick lining design.
+- Familiarity with dynamic vibration measurement and resonant frequency validation in operational industrial stacks.
+- Professional Engineer (PE) license.
+
+--------------------------------------------------------------------------------------------------------------------------------
+Job Description 40
+Responsibilities:
+- Perform structural analysis, structural acoustic decoupling modeling, and detailed engineering for performing arts centers, concert halls, broadcast studios, and vibration-isolated auditoriums.
+- Design heavy reinforced concrete and structural steel "box-in-box" isolated acoustic enclosures, floating floors, and decoupled structural boundary walls.
+- Design high-performance elastomeric and helical steel spring isolation systems to mitigate structure-borne ground vibration and low-frequency structure-borne noise from adjacent subways and railways.
+- Perform dynamic finite element frequency-response modeling to evaluate natural frequencies, transfer functions, and vibration transmission insertion loss across building isolators.
+- Design long-span column-free auditorium roof trusses, acoustic shell suspension grids, theatrical catwalk systems, and heavy rigging fly-tower structures.
+- Coordinate closely with acoustic consultants, theater planners, architectural interior specialists, and MEP noise control engineers.
+Minimum Qualifications:
+- Bachelor’s or Master’s degree in Civil, Structural, or Architectural Engineering.
+- 4–8 years of structural design experience with exposure to performing arts centers, vibration-isolated facilities, or complex architectural structures.
+- High proficiency in finite element modeling software such as SAP2000, ETABS, ANSYS, or Strand7.
+- Strong knowledge of building design standards including AISC 360, ACI 318, ASCE 7, IBC, and acoustic vibration criteria (NC / RC curves, ASHRAE guidelines).
+- Deep comprehension of structural dynamic isolation theory, impedance mismatching, transmissibility ratios, and dynamic footfall-induced acoustic emissions.
+Preferred Qualifications:
+- Experience designing theater fly-towers and rigging grid iron structures according to ANSI E1.21 / ESTA technical standards.
+- Familiarity with on-site vibration measurement testing (accelerometers, spectrum analyzers) and isolation bearing static/dynamic deflection verification.
+- Professional Engineer (PE) or Structural Engineer (SE) credential.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
