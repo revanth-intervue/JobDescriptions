@@ -1,0 +1,101 @@
+Job Description 1
+
+Responsibilities:
+
+- Own post-silicon validation and hardware bring-up for FPGA-based SoC architectures.
+- Synthesize, implement, place-and-route, and achieve timing closure using Microchip Libero SoC and Xilinx Vivado.
+- Develop processor-based test environments using ARM Cortex-M and RISC-V platforms.
+- Develop Embedded C/C++ test cases to validate FPGA hardware IPs.
+- Utilize embedded logic analyzers and lab equipment to debug system-level, protocol, and timing failures.
+- Perform board bring-up, signal integrity checks, and validation of high-speed serial interfaces.
+- Collaborate with RTL design, verification, firmware, software, and board design teams.
+
+Minimum Qualifications:
+
+- Bachelor's or Master's degree in Electrical Engineering, Electronics & Communication, or Computer Engineering.
+- Expert proficiency in SystemVerilog, Verilog, and VHDL.
+- Strong Embedded C/C++ programming skills.
+- Experience with ARM Cortex-M and RISC-V processor-based validation.
+- Experience validating AXI4, AHB, APB, PCIe Gen3/Gen4, DDR4/DDR5, SPI, QSPI, and UART interfaces.
+- Hands-on experience with Microchip Libero SoC, Xilinx Vivado, Intel Quartus Prime, ModelSim, QuestaSim, and Synopsys Identify.
+- Experience using oscilloscopes, logic analyzers, protocol analyzers, and JTAG debuggers.
+- Experience with Python and Tcl scripting for automation.
+
+Preferred Qualifications:
+
+- Experience with Secure Boot validation.
+- Knowledge of Physical Unclonable Functions (PUF).
+- Experience validating Hardware Security IP.
+- Knowledge of Static Timing Analysis (STA).
+- Experience with thermal and power profiling.
+- Experience performing FPGA timing closure.
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 2
+
+Responsibilities:
+
+- Develop UVM-based verification environments including drivers, monitors, scoreboards, and agents.
+- Develop SystemVerilog Assertions (SVA) for protocol verification.
+- Create constrained-random and transaction-level verification tests.
+- Improve functional and code coverage through coverage-driven verification.
+- Perform FPGA hardware validation and board bring-up.
+- Execute Hardware-in-the-Loop (HIL) testing.
+- Maintain automated CI/CD regression suites.
+- Prepare verification closure reports complying with aerospace standards.
+- Perform root-cause analysis for simulation mismatches and hardware failures.
+- Collaborate with FPGA, hardware, and systems engineering teams.
+
+Minimum Qualifications:
+
+- Bachelor's or Master's degree in Electrical, Electronics, or Computer Engineering.
+- 3+ years of SystemVerilog and UVM verification experience.
+- Experience with AMD/Xilinx Vivado, Zynq UltraScale+, and Zynq RFSoC platforms.
+- Experience validating Ethernet (10G/25G), PCIe, JESD204C, MIL-STD-1553, and SPI protocols.
+- Experience using Xilinx Vivado ILA, oscilloscopes, and logic analyzers.
+- Experience with constrained-random verification, transaction-level verification, and coverage-driven verification.
+- Experience with Python, Tcl, Makefile, and Linux environments.
+- Ability to obtain and maintain a U.S. Secret Security Clearance.
+
+Preferred Qualifications:
+
+- Experience with DO-254 hardware verification.
+- Experience with Cocotb.
+- Experience with Formal Verification tools.
+- Experience with Clock Domain Crossing (CDC) analysis.
+- Experience using SpyGlass CDC or Questa CDC.
+- Experience automating verification workflows using Python and Tcl.
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 3
+
+Responsibilities:
+
+- Define silicon validation strategy, platform architectures, and test execution timelines for FPGA SoC platforms.
+- Lead hardware bring-up and physical layer validation for SerDes, PCIe Gen4/Gen5, Ethernet PCS/PMA, and DDR4/DDR5 interfaces.
+- Design embedded bare-metal validation suites for ARM Cortex-M and RISC-V processor-based systems.
+- Collaborate with ASIC design, IP, firmware, and board engineering teams to isolate silicon, firmware, and hardware issues.
+- Oversee synthesis, implementation, static timing constraints (SDC), and timing closure for large FPGA designs.
+- Mentor validation engineers and present technical progress to stakeholders.
+
+Minimum Qualifications:
+
+- Bachelor's or Master's degree in ECE, VLSI, Embedded Systems, or related field.
+- 10+ years of experience in FPGA design, silicon validation, and post-silicon bring-up.
+- Strong experience in Verilog, SystemVerilog, VHDL, Embedded C, and C++.
+- Experience validating SerDes, PCIe Gen4/Gen5, DDR4/LPDDR5, AXI, AHB, and APB interfaces.
+- Hands-on experience with Xilinx ChipScope, Synopsys Identify, oscilloscopes, logic analyzers, and protocol analyzers.
+- Experience with static timing analysis, synthesis, implementation, and timing closure.
+- Strong Python, Tcl, Perl scripting skills in Linux environments.
+
+Preferred Qualifications:
+
+- Experience with Secure Boot and FPGA security validation.
+- Knowledge of cryptographic co-processors and Physical Unclonable Functions (PUF).
+- Experience leading FPGA validation teams.
+- Strong project planning and stakeholder management skills.
+
+--------------------------------------------------------------------------------------------------------------------------------
+
